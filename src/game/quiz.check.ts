@@ -141,7 +141,7 @@ for (const q of BANK) {
   assert.equal(g.flowers, 20);
 }
 
-// ---------- tiết thật: 20 câu, 5 dễ 6 vừa 5 khó + 4 câu toán (câu 5, 10, 15, 19); câu 20 nhân đôi; chuỗi 3 câu ----------
+// ---------- tiết thật: 20 câu, 2 dễ 2 vừa 6 khó + 4 câu toán (câu 5, 10, 15, 19, cấp 2-5); câu 20 nhân đôi; chuỗi 3 câu ----------
 {
   const c = new Classroom(BANK, t);
   c.newRound(t);
@@ -182,7 +182,7 @@ for (const q of BANK) {
 }
 
 // ---------- câu toán: đáp án đúng phép tính, luôn là số dương ----------
-for (const lv of [1, 2, 3, 4] as const) {
+for (const lv of [1, 2, 3, 4, 5] as const) {
   for (let i = 0; i < 500; i++) {
     const q = makeMath(lv);
     const expr = q.math!.show.replace(' = ?', '').replace(/×/g, '*').replace(/−/g, '-').replace(/:/g, '/');

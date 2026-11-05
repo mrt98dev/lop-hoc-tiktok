@@ -1,12 +1,12 @@
 import type { Question } from './questions';
 
 // Câu toán nhẩm: game tự sinh lúc vào tiết nên không bao giờ hết câu, không ghi vào sổ lớp.
-// Cấp 1 cộng trừ 1 chữ số · 2 cộng trừ 2 chữ số · 3 nhân chia bảng cửu chương · 4 phép tính hai bước.
+// Cấp 1 cộng trừ 1 chữ số · 2 cộng trừ 2 chữ số · 3 nhân chia bảng cửu chương · 4 phép tính hai bước · 5 phép tính ba bước.
 // Đáp án luôn là số tự nhiên, người xem gõ số (vd "83").
 
-export type MathLevel = 1 | 2 | 3 | 4;
+export type MathLevel = 1 | 2 | 3 | 4 | 5;
 
-const DIFF = { 1: 'easy', 2: 'medium', 3: 'hard', 4: 'hard' } as const;
+const DIFF = { 1: 'easy', 2: 'medium', 3: 'hard', 4: 'hard', 5: 'hard' } as const;
 
 export function makeMath(level: MathLevel, rand = Math.random): Question {
   const int = (lo: number, hi: number) => lo + Math.floor(rand() * (hi - lo + 1));
@@ -34,7 +34,7 @@ export function makeMath(level: MathLevel, rand = Math.random): Question {
     const a = int(6, 12), b = int(3, 9);
     if (coin()) [show, say, n] = [`${a} × ${b}`, `${a} nhân ${b}`, a * b];
     else [show, say, n] = [`${a * b} : ${b}`, `${a * b} chia ${b}`, a];
-  } else {
+  } else if (level === 4) {
     const kind = int(0, 2);
     if (kind === 0) {
       const a = int(10, 60), b = int(3, 9), c = int(3, 9);
@@ -45,6 +45,19 @@ export function makeMath(level: MathLevel, rand = Math.random): Question {
     } else {
       const a = int(2, 9), b = int(2, 9), c = int(3, 8);
       [show, say, n] = [`(${a} + ${b}) × ${c}`, `${a} cộng ${b}, tất cả nhân ${c}`, (a + b) * c];
+    }
+  } else {
+    // cấp 5: ba bước tính, số lớn hơn; đáp án vẫn là số dương
+    const kind = int(0, 2);
+    if (kind === 0) {
+      const a = int(11, 29), b = int(3, 9), d = int(2, 9), c = d * int(2, 9);
+      [show, say, n] = [`${a} × ${b} + ${c} : ${d}`, `${a} nhân ${b} cộng ${c} chia ${d}`, a * b + c / d];
+    } else if (kind === 1) {
+      const a = int(11, 39), b = int(12, 59), c = int(2, 9), d = int(3, 30);
+      [show, say, n] = [`(${a} + ${b}) × ${c} − ${d}`, `${a} cộng ${b}, tất cả nhân ${c} trừ ${d}`, (a + b) * c - d];
+    } else {
+      const a = int(7, 12), b = int(5, 9), c = int(2, 5), d = int(2, 5);
+      [show, say, n] = [`${a} × ${b} − ${c} × ${d}`, `${a} nhân ${b} trừ ${c} nhân ${d}`, a * b - c * d];
     }
   }
   return {

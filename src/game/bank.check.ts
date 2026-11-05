@@ -8,7 +8,7 @@ const dir = path.join(import.meta.dirname, 'cau-hoi');
 const files = Object.fromEntries(fs.readdirSync(dir).filter((f) => f.endsWith('.txt')).map((f) => [f, fs.readFileSync(path.join(dir, f), 'utf8')]));
 const errors: string[] = [];
 const bank = parseBank(files, errors);
-const MAX_LETTERS = 14; // nhiều hơn thì miếng chữ trên bảng quá nhỏ
+const MAX_LETTERS = 16; // nhiều hơn thì miếng chữ trên bảng quá nhỏ
 
 const seen = new Map<string, string>();
 for (const q of bank) {
