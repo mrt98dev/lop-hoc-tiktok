@@ -1,0 +1,9 @@
+# Câu dễ đã dời khỏi 05-do-uong-an-vat.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 05-do-uong-an-vat.txt
+NƯỚC NGỌT | Có ga, uống xong ợ một cái. | 1
+KEM | Mút que lạnh buốt mùa hè. | 1
+BIM BIM | Gói snack giòn rụm, xé ra kêu rột roạt. | 1 | SNACK
+ĐƯỜNG | Bột trắng ngọt, cho vào cà phê. | 1
+MUỐI | Hạt trắng mặn, làm từ nước biển. | 1
+NƯỚC LỌC | Không màu không mùi, uống nhiều cho đẹp da. | 1
+NƯỚC ĐÁ | Viên lạnh thả vào ly. | 1

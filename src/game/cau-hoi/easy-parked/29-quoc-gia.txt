@@ -1,0 +1,7 @@
+# Câu dễ đã dời khỏi 29-quoc-gia.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 29-quoc-gia.txt
+PHÁP | Đất nước có tháp Eiffel ở thủ đô Paris. | 1 | NƯỚC PHÁP
+AI CẬP | Đất nước có kim tự tháp và con sông Nin. | 1
+MỸ | Đất nước có tượng Nữ thần Tự do. | 1 | HOA KỲ, NƯỚC MỸ
+ÚC | Đất nước có chuột túi và gấu koala. | 1 | NƯỚC ÚC
+VIỆT NAM | Đất nước có phở, áo dài và chữ S trên bản đồ. | 1

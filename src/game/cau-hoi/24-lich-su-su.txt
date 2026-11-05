@@ -105,3 +105,39 @@ NGUYỄN DU | Đại thi hào, tác giả Truyện Kiều. | 1
 HỒ XUÂN HƯƠNG | Nữ sĩ được mệnh danh là Bà chúa thơ Nôm. | 2
 CHỮ NÔM | Chữ người Việt xưa tạo ra dựa trên chữ Hán để ghi tiếng Việt. | 2
 CHỮ QUỐC NGỮ | Chữ viết bằng chữ cái La-tinh mà các bạn nhỏ đang học hằng ngày. | 2 | QUỐC NGỮ
+PHONG CHÂU | Kinh đô của nhà nước Văn Lang, nay thuộc Phú Thọ. | 3
+NỎ THẦN | Vũ khí làm nên uy danh của An Dương Vương. | 3
+TRỌNG THỦY | Người bị giữ lại ở Âu Lạc, gieo mối họa mất nước. | 3
+DẠ TRẠCH | Đầm lau sậy gắn với cuộc khởi nghĩa của Triệu Quang Phục. | 3
+TRẦN QUỐC TUẤN | Tên thật của Hưng Đạo Đại Vương. | 3
+HÀM TỬ | Cửa ải nổi tiếng trong cuộc kháng chiến chống Nguyên lần hai. | 3
+VẠN KIẾP | Nơi Trần Hưng Đạo đặt đại bản doanh năm 1288. | 3
+LŨNG NHAI | Nơi hội thề năm 1416 của nghĩa quân Lam Sơn. | 3
+NGỌC HỒI | Cửa ngõ phía nam Thăng Long, nơi diễn ra trận đánh đầu xuân Kỷ Dậu. | 3
+NGÔ SĨ LIÊN | Người chủ biên bộ chính sử lớn thời Lê sơ. | 3
+ĐẠI VIỆT SỬ KÝ | Bộ chính sử đầu tiên của nước ta, do Ngô Sĩ Liên chủ biên. | 3
+NHÀ HỒ | Vương triều do Hồ Quý Ly lập, đóng đô ở Thanh Hóa. | 3
+PHÚ XUÂN | Kinh đô của nhà Nguyễn, nay là thành phố Huế. | 3
+SÔNG GIANH | Con sông chia cắt Đàng Trong và Đàng Ngoài suốt hai thế kỷ. | 3
+LŨY THẦY | Công trình phòng thủ do Đào Duy Từ xây cho chúa Nguyễn. | 3
+ĐÀO DUY TỪ | Người xây lũy phòng thủ ở Đàng Trong, tác giả Hổ trướng khu cơ. | 3
+CHIẾU LẬP HỌC | Bài chiếu khuyến khích mở trường học thời Tây Sơn. | 3
+ĐẠI NAM | Tên nước do Minh Mạng đổi năm 1838. | 3
+TỰ ĐỨC | Vị vua cuối cùng có thực quyền trước khi Pháp chiếm Nam Kỳ. | 3
+ĐÀ NẴNG | Nơi liên quân Pháp - Tây Ban Nha nổ súng mở đầu cuộc xâm lược năm 1858. | 3
+GIA ĐỊNH | Thành bị Pháp chiếm năm 1859, nay thuộc Thành phố Hồ Chí Minh. | 3
+NGUYỄN TRUNG TRỰC | Người đốt cháy tàu chiến Pháp trên sông Vàm Cỏ năm 1861. | 3
+TÂN SỞ | Căn cứ ở Quảng Trị nơi ban chiếu Cần Vương. | 3
+HƯƠNG KHÊ | Cuộc khởi nghĩa lớn nhất trong phong trào Cần Vương, do Phan Đình Phùng lãnh đạo. | 3
+YÊN THẾ | Căn cứ khởi nghĩa của Hoàng Hoa Thám, kéo dài gần ba mươi năm. | 3
+DUY TÂN HỘI | Tổ chức do Phan Bội Châu lập năm 1904. | 3
+PHAN CHU TRINH | Người chủ trương cải cách, chống thói quan liêu, hiệu Tây Hồ. | 3
+HƯƠNG CẢNG | Nơi thành lập Đảng Cộng sản Việt Nam năm 1930. | 3
+VIỆT MINH | Mặt trận thành lập năm 1941, tên đầy đủ có chữ Việt Nam độc lập. | 3
+TÂN TRÀO | Chiến khu ở Tuyên Quang, nơi họp Quốc dân đại hội tháng 8 năm 1945. | 3
+TUYÊN NGÔN ĐỘC LẬP | Bài đọc tại Quảng trường Ba Đình ngày 2 tháng 9 năm 1945. | 3
+VĂN HÓA HÒA BÌNH | Nền văn hóa đá cuội tiêu biểu của người Việt cổ. | 3
+VĂN HÓA SA HUỲNH | Nền văn hóa khảo cổ ở miền Trung, gắn với cư dân ven biển. | 3
+CHĂM PA | Vương quốc cổ ở miền Trung, để lại thánh địa Mỹ Sơn. | 3
+MỸ SƠN | Thánh địa đền tháp của người Chăm ở Quảng Nam. | 3
+CẦU LONG BIÊN | Cây cầu thép bắc qua sông Hồng, khánh thành năm 1903. | 3

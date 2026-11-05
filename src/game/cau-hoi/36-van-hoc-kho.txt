@@ -1,0 +1,80 @@
+# Văn học Việt Nam
+# Tác giả, tác phẩm, nhân vật văn học — câu khó cho dân chuyên, chỉ sự thật đã chốt (chủ kênh chốt 2026-11-05).
+# Mỗi dòng: ĐÁP ÁN | gợi ý | độ khó | cách viết khác (cách nhau dấu phẩy)
+> Đây là một tác giả hoặc một tác phẩm văn học.
+NGUYỄN DU | Tác giả Truyện Kiều, hiệu là Thanh Hiên. | 3
+TRUYỆN KIỀU | Tác phẩm thơ Nôm dài nhất và nổi tiếng nhất của văn học cổ. | 3
+THANH HIÊN | Hiệu của người viết Truyện Kiều. | 3
+TỐ NHƯ | Tên chữ của Nguyễn Du. | 3
+TỪ HẢI | Tên gọi khác của Truyện Kiều. | 3
+NGUYỄN BỈNH KHIÊM | Nhà thơ thế kỷ mười sáu, biệt danh Trạng Trình. | 3
+TRẠNG TRÌNH | Biệt danh của Nguyễn Bỉnh Khiêm. | 3
+BẠCH VÂN | Hiệu của Nguyễn Bỉnh Khiêm. | 3
+HỒ XUÂN HƯƠNG | Nữ sĩ được gọi là Bà chúa thơ Nôm. | 3
+BÀ CHÚA THƠ NÔM | Biệt danh của Hồ Xuân Hương. | 3
+NGUYỄN KHUYÊN | Nhà thơ làng Yên Đổ, nổi tiếng chùm thơ thu. | 3
+TAM NGUYÊN YÊN ĐỔ | Biệt danh của Nguyễn Khuyến. | 3
+NGUYỄN ĐÌNH CHIỂU | Tác giả Văn tế nghĩa sĩ Cần Giuộc. | 3
+LỤC VÂN TIÊN | Truyện thơ dài của Nguyễn Đình Chiểu. | 3
+BÀ HUYỆN THANH QUAN | Biệt danh của Nguyễn Thị Hinh, tác giả Qua đèo Ngang. | 3
+NGUYỄN TRÃI | Tác giả Bình Ngô đại cáo. | 3
+LÊ THÁNH TÔNG | Vị vua lập hội Tao Đàn. | 3
+HỘI TAO ĐÀN | Hội thơ do vua Lê Thánh Tông lập. | 3
+TRẦN TẾ XƯƠNG | Nhà thơ trào phúng đất Vị Hoàng thời Nguyễn. | 3
+TÚ XƯƠNG | Biệt danh của Trần Tế Xương. | 3
+NGUYỄN CÔNG TRỨ | Tác giả Bài ca ngất ngưởng. | 3
+BÀI CA NGẤT NGƯỞNG | Bài thơ của Nguyễn Công Trứ. | 3
+XUÂN DIỆU | Tác giả tập thơ Thơ thơ. | 3
+THƠ THƠ | Tập thơ đầu tay của Xuân Diệu. | 3
+HUY CẬN | Tác giả bài Tràng giang. | 3
+TRÀNG GIANG | Bài thơ của Huy Cận về dòng sông mênh mang. | 3
+TỐ HỮU | Tác giả bài thơ Từ ấy. | 3
+TỪ ẤY | Bài thơ đầu tay của Tố Hữu. | 3
+CHÍNH HỮU | Tác giả bài Đồng chí. | 3
+ĐỒNG CHÍ | Bài thơ của Chính Hữu về người lính thời kháng Pháp. | 3
+THẾ LỮ | Tác giả bài Nhớ rừng. | 3
+NHỚ RỪNG | Bài thơ của Thế Lữ, lời con hổ trong vườn bách thú. | 3
+NGUYỄN KHOA ĐIỀM | Tác giả trường ca Mặt đường khát vọng. | 3
+THANH HẢI | Tác giả bài Mùa xuân nho nhỏ. | 3
+MÙA XUÂN NHO NHỎ | Bài thơ của Thanh Hải. | 3
+TRẦN ĐĂNG KHOA | Nhà thơ nhí nổi tiếng với tập Góc sân và khoảng trời. | 3
+CHẾ LAN VIÊN | Tác giả tập Ánh sáng và phù sa. | 3
+ÁNH SÁNG VÀ PHÙ SA | Tập thơ của Chế Lan Viên. | 3
+NGUYỄN DUY | Tác giả bài Ánh trăng. | 3
+ÁNH TRĂNG | Bài thơ của Nguyễn Duy. | 3
+NGUYỄN NHẬT ÁNH | Tác giả Mắt biếc và Tôi là Bêtô. | 3
+MẮT BIẾC | Tác phẩm của Nguyễn Nhật Ánh về mối tình học trò. | 3
+TÔI LÀ BÊTÔ | Tác phẩm của Nguyễn Nhật Ánh kể chuyện một chú chó. | 3
+NGUYỄN NGỌC TƯ | Tác giả Cánh đồng bất tận. | 3
+CÁNH ĐỒNG BẤT TẬN | Truyện ngắn của Nguyễn Ngọc Tư. | 3
+LÊ MINH KHUÊ | Tác giả truyện Những ngôi sao xa xôi. | 3
+NGUYỄN MINH CHÂU | Tác giả truyện Chiếc thuyền ngoài xa. | 3
+TÔ HOÀI | Tác giả Vợ chồng A Phủ và Dế Mèn phiêu lưu ký. | 3
+VỢ CHỒNG A PHỦ | Truyện ngắn của Tô Hoài về miền núi Tây Bắc. | 3
+NAM CAO | Tác giả Lão Hạc và Chí Phèo. | 3
+LÃO HẠC | Truyện ngắn của Nam Cao về một ông lão nghèo. | 3
+CHÍ PHÈO | Nhân vật chính trong truyện ngắn cùng tên của Nam Cao. | 3
+KIM LÂN | Tác giả truyện Vợ nhặt. | 3
+VỢ NHẶT | Truyện ngắn của Kim Lân về nạn đói năm 1945. | 3
+NGUYỄN TUÂN | Tác giả Chữ người tử tù. | 3
+CHỮ NGƯỜI TỬ TÙ | Truyện ngắn của Nguyễn Tuân về Huấn Cao. | 3
+VANG BÓNG MỘT THỜI | Tập truyện ngắn của Nguyễn Tuân. | 3
+VŨ TRỌNG PHỤNG | Tác giả tiểu thuyết Số đỏ. | 3
+SỐ ĐỎ | Tiểu thuyết trào phúng của Vũ Trọng Phụng. | 3
+HÀN MẶC TỬ | Nhà thơ của bài Đây thôn Vĩ Dạ. | 3
+ĐÂY THÔN VĨ DẠ | Bài thơ của Hàn Mặc Tử về vùng quê bên sông Hương. | 3
+THẠCH LAM | Tác giả truyện ngắn Hai đứa trẻ. | 3
+HAI ĐỨA TRẺ | Truyện ngắn của Thạch Lam về hai chị em. | 3
+XUÂN QUỲNH | Nữ thi sĩ của bài thơ Sóng. | 3
+SÓNG | Bài thơ nổi tiếng của Xuân Quỳnh. | 3
+NGUYỄN BÍNH | Tác giả bài Tương tư. | 3
+TƯƠNG TƯ | Bài thơ của Nguyễn Bính về nỗi nhớ người yêu. | 3
+NGÔ TẤT TỐ | Tác giả tiểu thuyết Tắt đèn. | 3
+TẮT ĐÈN | Tiểu thuyết hiện thực của Ngô Tất Tố. | 3
+HỒ CHÍ MINH | Tác giả tập thơ Nhật ký trong tù. | 3
+NHẬT KÝ TRONG TÙ | Tập thơ chữ Hán viết trong ngục tối. | 3
+TẢN ĐÀ | Nhà thơ đầu thế kỷ hai mươi, viết Muốn làm thằng Cuội. | 3
+HOÀNG NGỌC PHÁCH | Tác giả tiểu thuyết Tố Tâm. | 3
+TỐ TÂM | Tiểu thuyết tình cảm đầu tiên thời hiện đại. | 3
+NGUYỄN DỮ | Tác giả Truyện kỳ mạn lục. | 3
+TRUYỆN KỲ MẠN LỤC | Tập truyện chữ Hán của Nguyễn Dữ. | 3

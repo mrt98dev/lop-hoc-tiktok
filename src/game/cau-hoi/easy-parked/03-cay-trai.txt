@@ -1,0 +1,12 @@
+# Câu dễ đã dời khỏi 03-cay-trai.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 03-cay-trai.txt
+QUẢ BƯỞI | Múi to, Trung thu hay bày lên mâm. | 1 | BƯỞI, TRÁI BƯỞI
+QUẢ DỪA | Uống nước xong nạo cơm. | 1 | DỪA, TRÁI DỪA
+QUẢ NHO | Mọc thành chùm, làm rượu vang. | 1 | NHO
+QUẢ CHANH | Vắt vào nước mắm cho chua. | 1 | CHANH
+QUẢ ỚT | Ăn vào cay xé lưỡi. | 1 | ỚT
+QUẢ CÀ CHUA | Đỏ mọng, nấu canh hoặc làm sốt. | 1 | CÀ CHUA
+CÀ RỐT | Củ màu cam, thỏ thích ăn. | 1
+CÂY LÚA | Cây cho ra hạt gạo. | 1 | LÚA
+HOA HỒNG | Đẹp mà có gai, tặng người yêu. | 1
+CỎ | Mọc khắp sân, trâu bò thích gặm. | 1

@@ -1,0 +1,5 @@
+# Câu dễ đã dời khỏi 12-the-thao-tro-choi.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 12-the-thao-tro-choi.txt
+BÀN THẮNG | Bóng vào lưới. | 1 | GOAL
+NHẢY DÂY | Quay dây và nhảy qua. | 1
+TRỐN TÌM | Một người đếm, cả bọn đi núp. | 1

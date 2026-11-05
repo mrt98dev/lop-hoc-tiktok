@@ -1,0 +1,19 @@
+# Câu dễ đã dời khỏi 08-do-vat.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 08-do-vat.txt
+GƯƠNG | Soi vào thấy mặt mình. | 1 | KIẾNG
+LƯỢC | Dùng để chải tóc. | 1
+BÀN CHẢI | Đánh răng mỗi sáng. | 1 | BÀN CHẢI ĐÁNH RĂNG
+ĐIỆN THOẠI | Ai cũng cầm trên tay, đang xem live bằng nó. | 1
+BÓNG ĐÈN | Bật công tắc là sáng. | 1
+CÁI KÉO | Cắt giấy, có hai lưỡi. | 1 | KÉO
+CON DAO | Thái rau, thái thịt. | 1 | DAO
+ĐÔI ĐŨA | Hai que dùng để gắp thức ăn. | 1 | ĐŨA
+CÁI THÌA | Múc canh, còn gọi muỗng. | 1 | THÌA, MUỖNG, CÁI MUỖNG
+CÁI BÁT | Đựng cơm, còn gọi là chén. | 1 | BÁT, CHÉN, CÁI CHÉN
+CÁI ĐĨA | Đựng thức ăn, mặt phẳng tròn. | 1 | ĐĨA, DĨA
+CÁI CỐC | Đựng nước uống, còn gọi là ly. | 1 | CỐC, LY, CÁI LY
+CÁI NỒI | Nấu canh, luộc rau. | 1 | NỒI
+CÁI CHẢO | Chiên trứng, xào rau. | 1 | CHẢO
+CÁI Ô | Trời mưa thì bung ra che. | 1 | CÂY DÙ, Ô, DÙ
+CÁI BÚA | Đóng đinh. | 1 | BÚA
+CỬA SỔ | Mở ra cho gió vào. | 1

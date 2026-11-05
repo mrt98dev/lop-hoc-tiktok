@@ -1,0 +1,46 @@
+# Câu dễ đã dời khỏi 27-trai-nghia.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 27-trai-nghia.txt
+TRONG | Ngược nghĩa với từ: ngoài. | 1
+ĐÓNG | Ngược nghĩa với từ: mở. | 1
+MỞ | Ngược nghĩa với từ: đóng. | 1
+XUỐNG | Ngược nghĩa với từ: lên. | 1
+LÊN | Ngược nghĩa với từ: xuống. | 1
+RA | Ngược nghĩa với từ: vào. | 1
+VÀO | Ngược nghĩa với từ: ra. | 1
+CƯỜI | Ngược nghĩa với từ: khóc. | 1
+KHÓC | Ngược nghĩa với từ: cười. | 1
+THỨC | Ngược nghĩa với từ: ngủ. | 1
+CŨ | Ngược nghĩa với từ: mới. | 1
+MỚI | Ngược nghĩa với từ: cũ. | 1
+BẨN | Ngược nghĩa với từ: sạch. | 1 | DƠ
+SẠCH | Ngược nghĩa với từ: bẩn. | 1
+NHẸ | Ngược nghĩa với từ: nặng. | 1
+NẶNG | Ngược nghĩa với từ: nhẹ. | 1
+MỀM | Ngược nghĩa với từ: cứng. | 1
+CỨNG | Ngược nghĩa với từ: mềm. | 1
+YẾU | Ngược nghĩa với từ: khỏe. | 1
+SAI | Ngược nghĩa với từ: đúng. | 1
+ĐÚNG | Ngược nghĩa với từ: sai. | 1
+THUA | Ngược nghĩa với từ: thắng. | 1
+THẮNG | Ngược nghĩa với từ: thua. | 1
+GIÀ | Ngược nghĩa với từ: trẻ. | 1
+TRẺ | Ngược nghĩa với từ: già. | 1
+GẦN | Ngược nghĩa với từ: xa. | 1
+XA | Ngược nghĩa với từ: gần. | 1
+NHIỀU | Ngược nghĩa với từ: ít. | 1
+ÍT | Ngược nghĩa với từ: nhiều. | 1
+XẤU | Ngược nghĩa với từ: đẹp. | 1
+ĐẸP | Ngược nghĩa với từ: xấu. | 1
+ƯỚT | Ngược nghĩa với từ: khô. | 1
+KHÔ | Ngược nghĩa với từ: ướt. | 1
+ĐEN | Ngược nghĩa với từ: trắng. | 1
+TRẮNG | Ngược nghĩa với từ: đen. | 1
+BÁN | Ngược nghĩa với từ: mua. | 1
+MUA | Ngược nghĩa với từ: bán. | 1
+NGỒI | Ngược nghĩa với từ: đứng. | 1
+ĐỨNG | Ngược nghĩa với từ: ngồi. | 1
+ĐẨY | Ngược nghĩa với từ: kéo. | 1
+KÉO | Ngược nghĩa với từ: đẩy. | 1
+TRÁI | Ngược nghĩa với từ: phải (bên phải). | 1
+PHẢI | Ngược nghĩa với bên tay trái. | 1
+CON GÁI | Ngược nghĩa với từ: con trai. | 1 | GÁI

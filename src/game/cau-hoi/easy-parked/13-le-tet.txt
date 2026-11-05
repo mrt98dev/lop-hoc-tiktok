@@ -1,0 +1,9 @@
+# Câu dễ đã dời khỏi 13-le-tet.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 13-le-tet.txt
+SINH NHẬT | Ngày mình ra đời, thổi nến. | 1
+ĐÁM CƯỚI | Cô dâu chú rể, ăn cỗ, mừng phong bì. | 1
+CÔ DÂU | Mặc váy trắng ngày cưới. | 1
+CHÚ RỂ | Mặc vest đứng cạnh cô dâu. | 1
+BÁNH KẸO | Bày trên khay mời khách ngày Tết. | 1
+ÁO MỚI | Mặc đi chúc Tết mùng một. | 1 | QUẦN ÁO MỚI
+VỀ QUÊ | Cả nhà bắt xe về đoàn tụ dịp Tết. | 1

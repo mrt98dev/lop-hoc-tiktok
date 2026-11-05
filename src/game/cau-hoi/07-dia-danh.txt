@@ -1,10 +1,8 @@
 # Đất nước Việt Nam
 > Đây là địa danh của Việt Nam.
 HÀ NỘI | Thủ đô của Việt Nam. | 1
-SÀI GÒN | Tên cũ của Thành phố Hồ Chí Minh. | 1
 ĐÀ NẴNG | Thành phố có cầu Rồng phun lửa. | 2
 HẢI PHÒNG | Thành phố hoa phượng đỏ, quê bánh đa cua. | 2
-HUẾ | Cố đô có Đại Nội, sông Hương. | 1
 HỘI AN | Phố cổ đèn lồng ở Quảng Nam. | 2
 ĐÀ LẠT | Thành phố ngàn hoa, sương mù, se lạnh. | 2
 NHA TRANG | Thành phố biển nổi tiếng ở Khánh Hòa. | 2
@@ -19,12 +17,12 @@ CÀ MAU | Mũi đất cực Nam Tổ quốc. | 2
 CẦN THƠ | Thủ phủ miền Tây, có chợ nổi Cái Răng. | 2
 SÔNG HỒNG | Con sông nước đỏ nặng phù sa chảy qua Hà Nội. | 2
 SÔNG HƯƠNG | Dòng sông thơ mộng chảy qua Huế. | 2
-SÔNG CỬU LONG | Chín nhánh sông đổ ra biển ở miền Tây. | 3 | SÔNG MÊ KÔNG
+SÔNG CỬU LONG | Chín nhánh sông đổ ra biển ở miền Tây. | 2| SÔNG MÊ KÔNG
 HỒ GƯƠM | Hồ có tháp Rùa giữa lòng Hà Nội. | 2 | HỒ HOÀN KIẾM
 HỒ TÂY | Hồ lớn nhất Hà Nội, có bánh tôm. | 2
 VĂN MIẾU | Trường đại học đầu tiên của Việt Nam. | 2 | QUỐC TỬ GIÁM
 LĂNG BÁC | Nơi viếng Bác ở quảng trường Ba Đình. | 2
-CHỢ BẾN THÀNH | Khu chợ có tháp đồng hồ ở Sài Gòn. | 3
+CHỢ BẾN THÀNH | Khu chợ có tháp đồng hồ ở Sài Gòn. | 2
 DINH ĐỘC LẬP | Xe tăng húc đổ cổng ngày ba mươi tháng tư. | 3
 NHÀ THỜ ĐỨC BÀ | Nhà thờ gạch đỏ ở trung tâm Sài Gòn. | 3
 PHỐ CỔ | Khu ba mươi sáu phố phường Hà Nội. | 2
@@ -59,7 +57,7 @@ AN GIANG | Có núi Cấm, rừng tràm Trà Sư. | 3
 KIÊN GIANG | Tỉnh có đảo Phú Quốc. | 3
 TÂY NINH | Có núi Bà Đen, bánh tráng phơi sương. | 3
 CỦ CHI | Địa đạo nổi tiếng gần Sài Gòn. | 3
-ĐIỆN BIÊN PHỦ | Chiến thắng lừng lẫy năm châu chấn động địa cầu năm 1954. | 3
+ĐIỆN BIÊN PHỦ | Chiến thắng lừng lẫy năm châu chấn động địa cầu năm 1954. | 2
 BA ĐÌNH | Quảng trường nơi Bác đọc Tuyên ngôn Độc lập. | 2
 > Đây là thứ gắn với đất nước Việt Nam.
 MÚA RỐI NƯỚC | Loại hình biểu diễn trên mặt ao, có chú Tễu. | 3
@@ -70,7 +68,7 @@ QUỐC CA | Bài "Tiến quân ca" hát khi chào cờ. | 2
 TIỀN ĐỒNG | Đơn vị tiền tệ của Việt Nam. | 2 | ĐỒNG
 > Đây là địa danh của Việt Nam.
 CHỢ NỔI | Chợ họp trên ghe thuyền ở miền Tây. | 2
-RUỘNG BẬC THANG | Ruộng lúa xếp tầng trên sườn núi. | 3
+RUỘNG BẬC THANG | Ruộng lúa xếp tầng trên sườn núi. | 2
 CỘT CỜ LŨNG CÚ | Nơi cắm cờ ở cực Bắc. | 3
 CHÙA MỘT CỘT | Ngôi chùa đứng trên một trụ đá giữa hồ. | 3
 CHÙA HƯƠNG | Đi lễ đầu xuân, đi đò suối Yến. | 3

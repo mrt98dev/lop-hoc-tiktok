@@ -14,7 +14,7 @@ CỜ CARO | Ai năm ô liền hàng trước là thắng. | 2
 VÕ THUẬT | Vovinam, karate, taekwondo đều là. | 2
 ĐUA XE | Chạy nhanh nhất về đích. | 2
 ĐẠP XE | Môn thể thao bằng xe hai bánh. | 2
-CHẠY MARATHON | Chạy bốn mươi hai cây số. | 3 | MARATHON
+CHẠY MARATHON | Chạy bốn mươi hai cây số. | 2| MARATHON
 NHẢY XA | Chạy đà rồi bật vào hố cát. | 2
 NHẢY CAO | Bật qua xà cao. | 2
 ĐẨY TẠ | Ném quả cầu sắt nặng. | 3
@@ -28,21 +28,18 @@ GYM | Phòng tập tạ cho cơ bắp to. | 1
 SEA GAMES | Đại hội thể thao Đông Nam Á. | 3
 WORLD CUP | Giải bóng đá lớn nhất hành tinh. | 2
 OLYMPIC | Thế vận hội năm vòng tròn. | 2 | THẾ VẬN HỘI
-HUY CHƯƠNG VÀNG | Phần thưởng cho người về nhất. | 3
+HUY CHƯƠNG VÀNG | Phần thưởng cho người về nhất. | 2
 THỦ MÔN | Người duy nhất được bắt bóng bằng tay. | 2
 TIỀN ĐẠO | Cầu thủ ghi bàn chính. | 2
 PHẠT ĐỀN | Sút từ chấm mười một mét. | 2 | PENALTY
 VIỆT VỊ | Lỗi đứng sau hậu vệ cuối cùng khi nhận bóng. | 3
 THẺ ĐỎ | Bị rút là phải rời sân. | 2
 HIỆP PHỤ | Hòa sau chín mươi phút thì đá thêm. | 3
-BÀN THẮNG | Bóng vào lưới. | 1 | GOAL
 > Đây là một trò chơi.
-NHẢY DÂY | Quay dây và nhảy qua. | 1
 ĐÁ CẦU | Tâng quả cầu lông gà bằng chân. | 2
 NHẢY LÒ CÒ | Kẻ ô dưới đất, nhảy một chân. | 3 | LÒ CÒ
 KÉO CO | Hai đội nắm dây kéo về phía mình. | 2
 BỊT MẮT BẮT DÊ | Bị bịt mắt đi tìm bạn. | 3
-TRỐN TÌM | Một người đếm, cả bọn đi núp. | 1
 Ô ĂN QUAN | Bốc sỏi rải vào các ô, có quan. | 3
 CHƠI CHUYỀN | Tung quả và nhặt que, bé gái hay chơi. | 3 | CHUYỀN
 BẮN BI | Búng viên bi thủy tinh vào lỗ. | 2

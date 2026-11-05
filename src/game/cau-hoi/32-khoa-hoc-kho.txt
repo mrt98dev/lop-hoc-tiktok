@@ -1,0 +1,141 @@
+# Khoa học khó
+# Vật lý, hóa học, sinh học, thiên văn — kiến thức sâu, chỉ sự thật đã chốt (chủ kênh chốt 2026-11-05).
+# Mỗi dòng: ĐÁP ÁN | gợi ý | độ khó | cách viết khác (cách nhau dấu phẩy)
+> Đây là một khái niệm khoa học.
+ÁP SUẤT | Đại lượng đo bằng niu tơn trên mét vuông, đơn vị là pát can. | 3
+DIỆP LỤC | Sắc tố làm lá cây có màu xanh. | 3 | CHẤT DIỆP LỤC
+LỰC HẤP DẪN | Lực hút giữa hai vật có khối lượng, làm quả táo rơi xuống đất. | 3
+KHỐI LƯỢNG | Đại lượng đo bằng ki lô gam, không đổi khi lên Mặt Trăng. | 3
+TRỌNG LƯỢNG | Lực hút của Trái Đất tác dụng lên một vật, đo bằng niu tơn. | 3
+NIUTƠN | Đơn vị đo lực, ký hiệu N. | 3
+JUN | Đơn vị đo công và năng lượng. | 3
+OÁT | Đơn vị đo công suất. | 3
+AMPE | Đơn vị đo cường độ dòng điện. | 3
+VÔN | Đơn vị đo hiệu điện thế. | 3
+HÉC | Đơn vị đo tần số, bằng một dao động trong một giây. | 3
+MA SÁT | Lực cản khi hai mặt tiếp xúc trượt lên nhau. | 3
+QUÁN TÍNH | Tính giữ nguyên trạng thái chuyển động của vật. | 3
+ĐÒN BẨY | Máy đơn giản như cái bập bênh. | 3
+RÒNG RỌC | Bánh xe có rãnh dùng để kéo vật lên cao. | 3
+MẶT PHẲNG NGHIÊNG | Tấm ván kê để đẩy xe lên dốc cho nhẹ. | 3
+CÔNG SUẤT | Đại lượng cho biết làm việc nhanh hay chậm, đo bằng oát. | 3
+ĐỘNG NĂNG | Năng lượng của vật đang chuyển động. | 3
+THẾ NĂNG | Năng lượng của vật ở trên cao hoặc bị biến dạng. | 3
+CƠ NĂNG | Tổng động năng và thế năng của một vật. | 3
+NHIỆT NĂNG | Năng lượng của các phân tử chuyển động hỗn độn. | 3
+ÁNH SÁNG | Sóng điện từ mà mắt người nhìn thấy được. | 3
+KHÚC XẠ | Tia sáng gãy khúc khi đi từ không khí vào nước. | 3
+PHẢN XẠ ÁNH SÁNG | Tia sáng dội lại khi gặp mặt gương. | 3
+TÁN SẮC | Lăng kính tách ánh sáng trắng thành bảy màu. | 3
+THẤU KÍNH | Miếng thủy tinh cong, hội tụ hoặc phân kỳ ánh sáng. | 3
+TIÊU CỰ | Khoảng cách từ quang tâm đến tiêu điểm. | 3
+GƯƠNG CẦU LỒI | Gương chiếu hậu xe máy, cho ảnh nhỏ hơn vật. | 3
+SIÊU ÂM | Sóng âm có tần số trên hai mươi nghìn héc. | 3
+HẠ ÂM | Sóng âm có tần số dưới hai mươi héc. | 3
+Ô NHIỄM TIẾNG ỒN | Tiếng to kéo dài làm hại tai và thần kinh. | 3
+ĐỐI LƯU | Dòng khí nóng bốc lên, khí lạnh chìm xuống. | 3
+BỨC XẠ NHIỆT | Nhiệt từ Mặt Trời truyền xuống Trái Đất. | 3
+DẪN NHIỆT | Kim loại truyền nhiệt tốt hơn gỗ. | 3
+CÁCH NHIỆT | Áo len giữ ấm nhờ đặc tính này. | 3
+BAY HƠI | Nước lỏng biến thành hơi ở mặt thoáng. | 3
+NGƯNG TỤ | Hơi nước đọng thành giọt trên mặt ly nước đá. | 3
+NÓNG CHẢY | Đá biến thành nước khi đủ ấm. | 3
+ĐÔNG ĐẶC | Nước biến thành đá ở không độ C. | 3
+THĂNG HOA | Nước đá biến thẳng thành hơi, không qua thể lỏng. | 3
+NHIỆT DUNG RIÊNG | Nhiệt cần để một ki lô gam nóng thêm một độ. | 3
+OXI | Khí chiếm khoảng một phần năm không khí, duy trì sự cháy. | 3 | Ô XI
+NI TƠ | Khí chiếm gần bốn phần năm không khí. | 3
+CÁC BON | Nguyên tố ký hiệu C, tạo nên kim cương và than chì. | 3 | CARBON
+HI ĐRÔ | Nguyên tố nhẹ nhất, ký hiệu H. | 3 | HYDRO
+SẮT | Kim loại ký hiệu Fe, dễ gỉ ngoài trời ẩm. | 3
+NHÔM | Kim loại nhẹ làm vỏ lon nước ngọt, ký hiệu Al. | 3
+ĐỒNG | Kim loại màu đỏ, dẫn điện tốt, ký hiệu Cu. | 3
+KẼM | Kim loại phủ lên tôn chống gỉ, ký hiệu Zn. | 3
+CHÌ | Kim loại nặng dùng làm tấm chắn tia phóng xạ. | 3
+THỦY NGÂN | Kim loại duy nhất lỏng ở nhiệt độ thường. | 3
+HỢP KIM | Vật liệu trộn kim loại với chất khác, như thép. | 3
+THÉP | Hợp kim của sắt với các bon, cứng hơn sắt. | 3
+GANG | Hợp kim sắt các bon hàm lượng cao, rất giòn. | 3
+AXIT | Dung dịch làm quỳ tím hóa đỏ, vị chua. | 3 | ACID
+BAZƠ | Dung dịch làm quỳ tím hóa xanh, sờ nhờn tay. | 3
+MUỐI | Hợp chất tạo khi axit gặp bazơ, vị mặn. | 3
+PHÂN BÓN | Chất bón ruộng, gồm đạm, lân, ka li. | 3
+THUỐC TRỪ SÂU | Hóa chất diệt côn trùng hại mùa màng. | 3
+PHẢN ỨNG HÓA HỌC | Quá trình tạo chất mới, như đốt giấy. | 3
+CHẤT XÚC TÁC | Chất làm phản ứng nhanh hơn mà không bị mất đi. | 3
+NGUYÊN TỐ | Chất tinh khiết không chia nhỏ được bằng phản ứng hóa học. | 3
+NGUYÊN TỬ | Hạt vô cùng nhỏ tạo nên mọi chất. | 3
+PHÂN TỬ | Nhóm nguyên tử liên kết với nhau. | 3
+ELECTRON | Hạt mang điện âm quay quanh hạt nhân. | 3
+PROTON | Hạt mang điện dương trong hạt nhân. | 3
+NƠ TRON | Hạt không mang điện trong hạt nhân. | 3
+ĐỒNG VỊ | Các nguyên tử cùng số proton nhưng khác số nơ tron. | 3
+LIÊN KẾT HÓA HỌC | Lực gắn các nguyên tử lại thành phân tử. | 3
+TẾ BÀO | Đơn vị nhỏ nhất của cơ thể sống. | 3
+NHIỄM SẮC THỂ | Cấu trúc trong nhân tế bào mang gen. | 3
+ADN | Phân tử mang thông tin di truyền, cấu trúc xoắn kép. | 3 | DNA
+ĐỘT BIẾN | Thay đổi bất thường trong vật chất di truyền. | 3
+DI TRUYỀN | Truyền đặc điểm từ bố mẹ sang con cái. | 3
+VI KHUẨN | Sinh vật một tế bào, không có nhân. | 3
+VI RÚT | Sinh vật tí hon, chỉ nhân lên trong tế bào chủ. | 3 | VIRUS
+NẤM | Nhóm sinh vật không có diệp lục, sinh sản bằng bào tử. | 3
+BÀO TỬ | Hạt sinh sản của nấm và dương xỉ. | 3
+QUẦN THỂ | Nhóm cá thể cùng loài sống trong một vùng. | 3
+QUẦN XÃ | Nhiều quần thể khác loài cùng sống trong một vùng. | 3
+HỆ SINH THÁI | Sinh vật và môi trường tương tác trong một vùng. | 3
+CHUỖI THỨC ĂN | Cỏ, thỏ, cáo, hổ nối nhau thành một dãy như vậy. | 3
+LƯỚI THỨC ĂN | Nhiều chuỗi dinh dưỡng đan vào nhau. | 3
+SINH VẬT PHÂN HỦY | Nấm và vi khuẩn biến xác sinh vật thành mùn. | 3
+QUANG HỢP | Cây xanh dùng ánh sáng tạo chất hữu cơ. | 3
+HÔ HẤP | Quá trình lấy khí ô xi và thải khí các bô níc. | 3
+THOÁT HƠI NƯỚC | Lá nhả hơi ẩm qua các lỗ khí. | 3
+LỖ KHÍ | Lỗ nhỏ trên mặt lá giúp trao đổi khí. | 3
+MẠCH GỖ | Mạch dẫn nước từ rễ lên lá. | 3
+MẠCH RÂY | Mạch dẫn chất hữu cơ trong cây. | 3
+RỄ CỌC | Rễ to khỏe cắm sâu, như rễ cây me. | 3
+THÂN CỦ | Thân phình ra chứa chất dự trữ, như khoai tây. | 3
+HẠT KÍN | Nhóm thực vật có hoa và quả. | 3
+HẠT TRẦN | Nhóm thực vật có nón, như cây thông. | 3
+THỤ PHẤN | Hạt phấn từ nhị chuyển sang nhụy. | 3
+ĐỘNG VẬT CÓ VÚ | Nhóm nuôi con bằng sữa. | 3
+LƯỠNG CƯ | Nhóm sống cả dưới nước và trên cạn, như ếch. | 3
+BÒ SÁT | Nhóm da khô có vảy, di chuyển bằng cách bò. | 3
+THÂN MỀM | Nhóm cơ thể mềm, nhiều loài có vỏ đá vôi. | 3
+RUỘT KHOANG | Nhóm sinh vật biển có tua miệng, như sứa. | 3
+CÔN TRÙNG | Nhóm có sáu chân, cơ thể chia ba phần. | 3
+GIÁP XÁC | Nhóm có vỏ kitin, như tôm, cua. | 3
+GIUN ĐẤT | Sinh vật thân dài, sống trong đất ẩm, làm tơi đất. | 3
+TIM | Cơ quan bơm máu đi khắp cơ thể, có bốn ngăn. | 3
+PHỔI | Cơ quan trao đổi khí, gồm hai lá. | 3
+GAN | Cơ quan lọc độc tố và tiết mật. | 3
+THẬN | Hai quả lọc máu thành nước tiểu. | 3
+DẠ DÀY | Túi co bóp, tiết dịch vị tiêu hóa thức ăn. | 3
+RUỘT NON | Nơi hấp thụ phần lớn chất dinh dưỡng. | 3
+ĐẠI TRÀNG | Phần cuối đường tiêu hóa, hấp thụ nước. | 3
+HỒNG CẦU | Tế bào máu chở khí ô xi. | 3
+BẠCH CẦU | Tế bào máu chống nhiễm trùng. | 3
+TIỂU CẦU | Thành phần máu giúp cầm máu khi bị đứt tay. | 3
+HUYẾT TƯƠNG | Phần lỏng của máu. | 3
+ĐỘNG MẠCH | Mạch đưa máu từ tim đi nuôi cơ thể. | 3
+TĨNH MẠCH | Mạch đưa máu từ cơ thể về tim. | 3
+MAO MẠCH | Mạch nhỏ nhất, nối động mạch với tĩnh mạch. | 3
+ĐẠI NÃO | Phần não lớn nhất, điều khiển suy nghĩ và ngôn ngữ. | 3
+TIỂU NÃO | Phần não giữ thăng bằng và phối hợp động tác. | 3
+HÀNH NÃO | Phần não điều khiển hô hấp và nhịp tim. | 3
+NƠ RON | Tế bào thần kinh, có nhiều nhánh. | 3
+PHẢN XẠ | Phản ứng tự động của cơ thể, như chạm lửa rụt tay. | 3
+HỆ MIỄN DỊCH | Hàng rào phòng bệnh của cơ thể. | 3
+KHÁNG THỂ | Chất cơ thể tạo ra để chống mầm bệnh. | 3
+VẮC XIN | Chế phẩm giúp cơ thể tạo miễn dịch chủ động. | 3 | VACCINE
+KHÁNG SINH | Thuốc diệt vi khuẩn, như penicillin. | 3
+THIÊN THẠCH | Đá từ vũ trụ rơi xuống Trái Đất. | 3
+SAO BĂNG | Vệt sáng khi đá vũ trụ cháy trong khí quyển. | 3
+HỐ ĐEN | Vùng không gian hút mọi thứ, kể cả ánh sáng. | 3
+SAO HỎA | Hành tinh đỏ, có ngọn núi cao nhất hệ Mặt Trời. | 3
+SAO THỦY | Hành tinh gần Mặt Trời nhất. | 3
+SAO HẢI VƯƠNG | Hành tinh xa Mặt Trời nhất. | 3
+NĂM ÁNH SÁNG | Đơn vị đo khoảng cách trong vũ trụ. | 3
+BIG BANG | Vụ nổ lớn khai sinh vũ trụ. | 3
+HỆ MẶT TRỜI | Gồm tám hành tinh quay quanh một ngôi sao. | 3
+SAO CHỔI | Thiên thể có đuôi dài, quay về theo chu kỳ nhiều năm. | 3
+VỆ TINH | Thiên thể quay quanh hành tinh. | 3

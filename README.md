@@ -4,7 +4,7 @@ Game tương tác cho TikTok LIVE. Màn hình là một lớp học 2D: cô giá
 
 ## Tính năng
 
-- 2076 câu hỏi tiếng Việt, 30 chủ đề, mỗi câu là một dòng trong file text (`src/game/cau-hoi/`). Mỗi tiết 20 câu, xen câu toán nhẩm tự sinh, câu tiếng Anh, đố mẹo, lịch sử; câu 20 là câu hỏi vàng nhân đôi điểm.
+- 2435 câu hỏi tiếng Việt, 36 chủ đề, mỗi câu là một dòng trong file text (`src/game/cau-hoi/`). Mỗi tiết 20 câu, xen câu toán nhẩm tự sinh, câu tiếng Anh, đố mẹo, lịch sử; câu 20 là câu hỏi vàng nhân đôi điểm. Phần lớn câu là mức vừa và khó cho người chơi quen (chỉ 2 câu dễ mỗi tiết, để mở màn).
 - Chấm điểm theo giờ TikTok gắn lúc người xem gửi bình luận, nên phòng đông, bình luận tới lệch thứ tự vẫn xếp đúng ai nhanh nhất. Nhất 10 điểm, nhì 7, ba 5; chép đáp án trên khung chat chỉ được 1 điểm.
 - Phải gõ có dấu; kiểu bỏ dấu cũ và mới ("hóa" / "hoá") đều tính đúng. Nói chuyện thường không bị tính là trả lời sai.
 - Game nhớ câu nào đã hỏi (lưu ra file) để nhiều buổi live liền ít lặp.
@@ -67,13 +67,15 @@ NEM RÁN | Cuốn bánh đa nem rồi chiên vàng giòn. | 2 | CHẢ GIÒ
 
 - Dòng `#` là tên chủ đề, dòng `>` là câu cô nói trước gợi ý.
 - Mỗi câu: `ĐÁP ÁN | gợi ý | độ khó (1 dễ, 2 vừa, 3 khó) | cách viết khác cũng tính đúng`.
-- Đáp án tối đa 14 chữ cái (không tính khoảng trắng). Gợi ý không được chứa nguyên đáp án.
+- Đáp án tối đa 16 chữ cái (không tính khoảng trắng). Gợi ý không được chứa nguyên đáp án.
 
 Sửa xong chạy kiểm tra (mở cửa sổ lệnh trong thư mục game):
 
 ```bash
 npx tsx src/game/bank.check.ts
 ```
+
+Thư mục con `src/game/cau-hoi/easy-parked/` là chỗ để dành những câu dễ đã cất đi (game không nạp thư mục con), cần thì chuyển lại vào file chủ đề.
 
 Lời thoại của cô nằm ở `src/game/loi-thoai.ts`, các con số (thời gian mỗi câu, điểm, giờ ra chơi...) ở `src/game/config.ts`.
 

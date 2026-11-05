@@ -1,0 +1,112 @@
+# Địa lý khó
+# Địa lý tự nhiên và địa lý Việt Nam — câu khó cho dân chuyên, chỉ sự thật đã chốt (chủ kênh chốt 2026-11-05).
+# Mỗi dòng: ĐÁP ÁN | gợi ý | độ khó | cách viết khác (cách nhau dấu phẩy)
+> Đây là một địa danh hoặc một khái niệm địa lý.
+PHAN XI PĂNG | Đỉnh núi cao nhất Việt Nam, cao hơn ba nghìn một trăm mét. | 3 | FANSIPAN
+HOÀNG LIÊN SƠN | Dãy núi cao nhất nước, nơi có đỉnh cao nhất Đông Dương. | 3
+ĐÈO HẢI VÂN | Con đèo dài nhất nước, chạy men theo ranh giới Thừa Thiên Huế và Đà Nẵng. | 3
+HỒ BA BỂ | Hồ nước ngọt tự nhiên lớn nhất Việt Nam, nằm ở Bắc Kạn. | 3
+HỒ DẦU TIẾNG | Hồ nhân tạo lớn nhất Việt Nam, tưới cho cả vùng Đông Nam Bộ. | 3
+BIỂN HỒ | Hồ nước ngọt lớn nhất Đông Nam Á, ở Campuchia. | 3 | TONLE SAP
+ĐỒNG THÁP MƯỜI | Vùng trũng ngập nước mênh mông giữa Long An, Tiền Giang và Đồng Tháp. | 3
+MŨI CÀ MAU | Điểm cực nam trên đất liền của Tổ quốc. | 3
+LŨNG CÚ | Xã ở Hà Giang có cột cờ đánh dấu điểm cực bắc. | 3
+A PA CHẢI | Ngã ba biên giới Việt Nam - Lào - Trung Quốc, điểm cực tây. | 3
+MŨI ĐÔI | Mũi đất ở Khánh Hòa, nơi đón ánh mặt trời đầu tiên trên đất liền. | 3
+QUẦN ĐẢO TRƯỜNG SA | Quần đảo lớn nhất của nước ta trên Biển Đông. | 3
+QUẦN ĐẢO HOÀNG SA | Quần đảo ở phía bắc Biển Đông, huyện đảo của Đà Nẵng. | 3
+ĐẢO PHÚ QUỐC | Đảo lớn nhất Việt Nam, nổi tiếng nước mắm và hồ tiêu. | 3
+ĐẢO CÁT BÀ | Đảo lớn nhất vịnh Bắc Bộ, thuộc Hải Phòng. | 3
+BẠCH LONG VĨ | Huyện đảo xa bờ nhất trong vịnh Bắc Bộ. | 3
+VỊNH HẠ LONG | Vịnh có gần hai nghìn đảo đá vôi nhô lên mặt nước. | 3
+HANG SƠN ĐOÒNG | Hang động tự nhiên lớn nhất thế giới, ở Quảng Bình. | 3
+ĐỘNG PHONG NHA | Hang động nổi tiếng ở Quảng Bình, gắn với di sản Kẻ Bàng. | 3
+THÁC BẢN GIỐC | Thác nước lớn nhất nước ta, nằm trên biên giới với Trung Quốc. | 3
+MÙ CANG CHẢI | Huyện ở Yên Bái nổi tiếng ruộng bậc thang. | 3
+CAO NGUYÊN LÂM VIÊN | Cao nguyên có thành phố Đà Lạt. | 3
+BUÔN MA THUỘT | Thành phố được gọi là thủ phủ cà phê của Việt Nam. | 3
+NGÃ BA ĐÔNG DƯƠNG | Nơi biên giới Việt Nam, Lào, Campuchia gặp nhau, ở Kon Tum. | 3
+TÂY NGUYÊN | Vùng đất đỏ ba dan gồm năm tỉnh, trồng nhiều cà phê và hồ tiêu. | 3
+ĐẤT BA DAN | Loại đất đỏ màu mỡ hình thành từ dung nham núi lửa. | 3 | ĐẤT BAZAN
+ĐẤT PHÙ SA | Loại đất màu mỡ do sông bồi đắp ở đồng bằng. | 3
+ĐẤT PHÈN | Loại đất chua, nghèo dinh dưỡng ở vùng trũng Nam Bộ. | 3
+ĐẤT MẶN | Loại đất nhiễm muối, thường gặp ở ven biển. | 3
+ĐẤT FERALIT | Loại đất đặc trưng của vùng đồi núi nhiệt đới ẩm. | 3
+XÓI MÒN | Quá trình nước chảy bào mòn lớp đất mặt. | 3
+SẠT LỞ | Hiện tượng đất đá trên sườn dốc đổ xuống. | 3
+LŨ QUÉT | Dòng nước dữ đổ về bất ngờ từ thượng nguồn. | 3
+PHÙ SA | Chất đất mịn lắng lại ở hạ lưu sau mỗi mùa nước. | 3
+LƯU VỰC | Toàn bộ vùng đất mà nước mưa dồn về một con sông. | 3
+THƯỢNG NGUỒN | Đoạn sông ở phía núi, nơi bắt đầu dòng chảy. | 3
+HẠ LƯU | Đoạn sông gần cửa biển, nước chảy chậm. | 3
+ĐẦM PHÁ | Vùng nước mặn nông ven biển, thường gặp ở miền Trung. | 3
+THỀM LỤC ĐỊA | Phần đáy biển nông kéo dài từ bờ ra. | 3
+LÃNH HẢI | Vùng biển rộng mười hai hải lý tính từ đường cơ sở. | 3
+NỘI THỦY | Vùng nước nằm phía trong đường cơ sở. | 3
+HẢI LÝ | Đơn vị đo khoảng cách trên biển, bằng một nghìn tám trăm năm mươi hai mét. | 3
+THỦY TRIỀU | Nước biển lên xuống theo chu kỳ mỗi ngày. | 3
+TRIỀU CƯỜNG | Đợt triều cao bất thường khi trăng tròn hoặc trăng non. | 3
+DÒNG BIỂN NÓNG | Dòng nước ấm chảy từ vùng xích đạo về phía hai cực. | 3
+DÒNG BIỂN LẠNH | Dòng nước lạnh chảy từ vùng cực về phía xích đạo. | 3
+SÓNG THẦN | Cơn sóng khổng lồ sinh ra từ động đất dưới đáy biển. | 3
+NÚI LỬA | Ngọn núi phun ra tro bụi và dung nham. | 3
+DUNG NHAM | Đá nóng chảy phun trào ra khỏi miệng núi lửa. | 3
+MẮC MA | Đá nóng chảy còn nằm dưới lòng đất. | 3
+THẠCH NHŨ | Khối đá vôi kết tủa nhỏ giọt từ trần hang xuống. | 3
+MĂNG ĐÁ | Khối đá vôi mọc từ nền hang lên. | 3
+ĐỘNG ĐẤT | Rung chấn mạnh do các mảng đất va chạm. | 3
+VÀNH ĐAI LỬA | Vòng núi lửa bao quanh Thái Bình Dương. | 3
+ĐƯỜNG XÍCH ĐẠO | Vòng tròn chia Trái Đất thành hai bán cầu, ở vĩ độ không độ. | 3
+CHÍ TUYẾN BẮC | Vĩ tuyến hai mươi ba độ hai mươi bảy phút bắc. | 3
+KINH TUYẾN GỐC | Đường kinh tuyến không độ đi qua đài thiên văn Greenwich. | 3
+ĐƯỜNG ĐỔI NGÀY | Kinh tuyến một trăm tám mươi độ, nơi đổi sang ngày mới. | 3
+MÚI GIỜ | Mỗi vùng rộng mười lăm độ kinh tuyến dùng chung một giờ. | 3
+VĨ ĐỘ | Khoảng cách góc từ một điểm tới đường xích đạo. | 3
+KINH ĐỘ | Khoảng cách góc từ một điểm tới kinh tuyến gốc. | 3
+TỌA ĐỘ | Cặp số xác định vị trí một điểm trên bản đồ. | 3
+TỈ LỆ BẢN ĐỒ | Con số cho biết bản đồ thu nhỏ so với thực tế bao nhiêu lần. | 3
+CHÚ GIẢI | Phần bảng ghi ký hiệu dùng trên bản đồ. | 3
+ĐỒNG MỨC | Đường nối các điểm có cùng độ cao trên bản đồ. | 3
+GIÓ MÙA | Loại gió đổi chiều theo mùa, đặc trưng của nước ta. | 3
+GIÓ MẬU DỊCH | Loại gió thổi đều từ vùng áp cao cận chí tuyến về xích đạo. | 3
+GIÓ LÀO | Ngọn gió khô nóng thổi từ Lào sang miền Trung nước ta. | 3 | GIÓ PHƠN
+FRÔNG | Mặt tiếp xúc giữa hai khối khí nóng và lạnh. | 3
+KHÍ ÁP | Sức ép của khối không khí lên mặt đất. | 3
+ÁP THẤP NHIỆT ĐỚI | Vùng xoáy gió mạnh nhưng chưa đủ mạnh để thành bão. | 3
+BÃO NHIỆT ĐỚI | Xoáy thuận mạnh trên biển, gió từ cấp tám trở lên. | 3
+MÙA KHÔ | Thời gian ít mưa ở miền Nam nước ta. | 3
+SA MẠC HÓA | Quá trình đất đai màu mỡ biến thành hoang địa. | 3
+SA MẠC SAHARA | Hoang mạc nóng lớn nhất thế giới, ở châu Phi. | 3
+SA MẠC ATACAMA | Hoang mạc khô hạn nhất thế giới, ở Nam Mỹ. | 3
+SA MẠC GOBI | Hoang mạc lạnh ở Trung Á, giáp Trung Quốc và Mông Cổ. | 3
+SA MẠC KALAHARI | Hoang mạc ở miền nam châu Phi, quê hương của người San. | 3
+RỪNG AMAZON | Rừng mưa nhiệt đới lớn nhất thế giới, được gọi là phổi xanh. | 3
+RỪNG TAIGA | Rừng lá kim trải dài trên vùng lạnh phương bắc. | 3
+XAVAN | Đồng cỏ nhiệt đới thưa cây, đặc trưng châu Phi. | 3
+THẢO NGUYÊN | Vùng đồng cỏ rộng lớn, cây thân thảo chiếm ưu thế. | 3
+BĂNG HÀ | Dòng băng lớn chuyển động chậm trên núi cao. | 3
+DÃY ANDES | Dãy núi dài nhất thế giới, chạy dọc phía tây Nam Mỹ. | 3
+DÃY HIMALAYA | Dãy núi cao nhất thế giới, nơi có đỉnh Everest. | 3
+ĐỈNH EVEREST | Nơi cao nhất trên bề mặt Trái Đất, thuộc dãy Himalaya. | 3
+HỒ BAIKAL | Hồ nước ngọt sâu nhất thế giới, ở Nga. | 3
+BIỂN CASPI | Hồ nước lớn nhất thế giới, nằm giữa châu Á và châu Âu. | 3
+HỒ VICTORIA | Hồ nước ngọt lớn nhất châu Phi. | 3
+HỒ SUPERIOR | Hồ nước ngọt lớn nhất thế giới về diện tích, ở Bắc Mỹ. | 3
+HỒ TANGANYIKA | Hồ sâu thứ hai thế giới, trải dài giữa bốn nước châu Phi. | 3
+BIỂN CHẾT | Hồ nước mặn nhất thế giới, nằm ở mức thấp nhất trên mặt đất. | 3
+SÔNG NILE | Con sông dài nhất châu Phi, chảy qua Ai Cập. | 3
+SÔNG DƯƠNG TỬ | Con sông dài nhất châu Á. | 3
+SÔNG HOÀNG HÀ | Con sông được gọi là sông mẹ của Trung Hoa. | 3
+SÔNG VOLGA | Con sông dài nhất châu Âu. | 3
+THÁC NIAGARA | Thác nước nổi tiếng nằm giữa Mỹ và Canada. | 3
+THÁC VICTORIA | Thác nước lớn nhất châu Phi, trên sông Zambezi. | 3
+KÊNH SUEZ | Con kênh nhân tạo nối Địa Trung Hải với Biển Đỏ. | 3
+KÊNH PANAMA | Con kênh nhân tạo nối Đại Tây Dương với Thái Bình Dương. | 3
+EO BIỂN MALACCA | Eo biển hẹp nối Ấn Độ Dương với Thái Bình Dương. | 3
+ĐẠI TÂY DƯƠNG | Đại dương nằm giữa châu Mỹ và châu Âu, châu Phi. | 3
+ẤN ĐỘ DƯƠNG | Đại dương nằm giữa châu Á, châu Phi và châu Đại Dương. | 3
+BẮC BĂNG DƯƠNG | Đại dương nhỏ nhất và nông nhất trong bốn đại dương. | 3
+CHÂU NAM CỰC | Châu lục lạnh nhất, khô nhất và nhiều gió nhất. | 3
+CHÂU ĐẠI DƯƠNG | Châu lục nhỏ nhất và ít dân nhất. | 3
+VATICAN | Quốc gia có diện tích nhỏ nhất thế giới. | 3
+LIÊN BANG NGA | Quốc gia rộng nhất thế giới, trải qua hai châu lục. | 3

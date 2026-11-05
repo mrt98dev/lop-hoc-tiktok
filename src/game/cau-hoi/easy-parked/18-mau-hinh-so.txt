@@ -1,0 +1,19 @@
+# Câu dễ đã dời khỏi 18-mau-hinh-so.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 18-mau-hinh-so.txt
+HÌNH TRÒN | Hình không có góc nào. | 1
+HÌNH VUÔNG | Bốn cạnh bằng nhau, bốn góc vuông. | 1
+SỐ KHÔNG | Số trước số một. | 1 | KHÔNG
+SỐ MỘT | Số đứng đầu, hạng nhất. | 1 | MỘT
+MƯỜI | Số ngón tay của hai bàn tay. | 1 | SỐ MƯỜI
+CHỤC | Mười cái. | 1
+CẶP | Hai cái đi với nhau. | 1 | ĐÔI
+GIÂY | Đơn vị thời gian nhỏ nhất trên đồng hồ. | 1
+PHÚT | Sáu mươi giây. | 1
+GIỜ | Sáu mươi phút. | 1
+NGÀY | Hai mươi bốn giờ. | 1
+TUẦN | Bảy ngày. | 1
+THÁNG | Khoảng ba mươi ngày. | 1
+NĂM | Mười hai tháng. | 1
+MÉT | Đơn vị đo chiều dài. | 1
+LÍT | Đơn vị đo chai nước. | 1
+BÊN TRÁI | Ngược với bên phải. | 1 | TRÁI

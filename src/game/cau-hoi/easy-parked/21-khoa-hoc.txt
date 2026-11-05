@@ -1,0 +1,8 @@
+# Câu dễ đã dời khỏi 21-khoa-hoc.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 21-khoa-hoc.txt
+ROBOT | Máy móc biết làm việc như người. | 1 | RÔ BỐT
+INTERNET | Mạng toàn cầu. | 1 | MẠNG
+EMAIL | Thư điện tử. | 1 | THƯ ĐIỆN TỬ
+MÀN HÌNH | Phần hiển thị hình ảnh. | 1
+CAMERA | Ống kính trên điện thoại. | 1
+NHỰA | Vật liệu làm chai nước, đồ chơi. | 1

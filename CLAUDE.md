@@ -10,7 +10,7 @@ Lớp học 2D cho TikTok LIVE. Cô giáo áo dài đố chữ: chữ cái xáo 
 ## Luật chơi
 
 - Comment bất kỳ là vào lớp (có tên trên đầu học sinh). Gõ `vào lớp` thì cô chào.
-- Mỗi tiết 20 câu: 10 câu chữ (4 dễ, 2 vừa, 4 khó) + 4 câu toán nhẩm khó dần ở câu 5, 10, 15, 19 + 2 câu tiếng Anh ở câu 3, 12 + 2 câu đố mẹo ở câu 7, 13 + 2 câu lịch sử ở câu 9, 17; câu 20 là câu hỏi vàng (điểm x2). Mỗi câu 20 giây. Hết giờ chưa ai đúng: mở 1 chữ (câu toán không mở số), thêm 10 giây.
+- Mỗi tiết 20 câu: 10 câu chữ (2 dễ, 2 vừa, 6 khó) + 4 câu toán nhẩm khó dần ở câu 5, 10, 15, 19 (cấp 2–5, cấp 5 là phép 3 bước) + 2 câu tiếng Anh ở câu 3, 12 + 2 câu đố mẹo ở câu 7, 13 + 2 câu lịch sử ở câu 9, 17; câu 20 là câu hỏi vàng (điểm x2). Mỗi câu 20 giây. Hết giờ chưa ai đúng: mở 1 chữ (câu toán không mở số), thêm 10 giây.
 - Cô đọc: "Câu 3. Đây là một món ăn. <gợi ý>" (câu "Đây là..." ghi ở dòng `>` trong file câu hỏi).
 - Sau mỗi tiết là giờ ra chơi 1 phút, bốc 1 trong 5 trò (không lặp trò vừa chơi): oẳn tù tì (+2), kiểm tra miệng gọi 1 bạn đang ngồi (+5), chọn phe (vui, không điểm), điểm danh "có mặt" (10 bạn đầu +3), thả tim 300 trong 30 giây (+1 cả lớp). Xong trò thì hiện "Học sinh giỏi hôm nay".
 - Xếp hạng 3 tầng: điểm tiết (xếp ghế, xoá mỗi tiết) · điểm buổi (👑 lớp trưởng, ⭐ lớp phó) · bảng vàng tuần (lưu file `data/so-lop.json`, tự xoá khi sang tuần mới).
@@ -22,8 +22,8 @@ Lớp học 2D cho TikTok LIVE. Cô giáo áo dài đố chữ: chữ cái xáo 
 ## File
 
 - `src/game/quiz.ts`: lõi game (pha, chấm điểm, chỗ ngồi). Test: `npx tsx src/game/quiz.check.ts`.
-- `src/game/cau-hoi/*.txt`: 2076 câu, 30 chủ đề (gồm 101 câu đố mẹo 23-do-meo.txt và 101 câu lịch sử 24-lich-su-su.txt; file tên đuôi -meo / -su chỉ hỏi ở vị trí meo / su trong roundPlan). Kiểm tra: `npx tsx src/game/bank.check.ts` (gợi ý lộ đáp án, trùng, đáp án quá 14 chữ, thiếu câu "Đây là").
-- `src/game/math.ts`: sinh câu toán nhẩm 4 cấp (cộng trừ 1 chữ số, 2 chữ số, nhân chia, 2 bước). Tự sinh nên không hết câu, không ghi vào sổ lớp.
+- `src/game/cau-hoi/*.txt`: 2435 câu, 36 chủ đề (dễ 279 · vừa 1117 · khó 1039; gồm 155 câu đố mẹo 23-do-meo.txt và 137 câu lịch sử 24-lich-su-su.txt; file tên đuôi -meo / -su chỉ hỏi ở vị trí meo / su trong roundPlan). Thư mục con `easy-parked/` cất câu dễ đã dời đi, game không nạp. Kiểm tra: `npx tsx src/game/bank.check.ts` (gợi ý lộ đáp án, trùng, đáp án quá 16 chữ, thiếu câu "Đây là").
+- `src/game/math.ts`: sinh câu toán nhẩm 5 cấp (cộng trừ 1 chữ số, 2 chữ số, nhân chia, 2 bước, 3 bước). Tự sinh nên không hết câu, không ghi vào sổ lớp.
 - `src/game/loi-thoai.ts`: toàn bộ lời cô (khoảng 330 câu, bốc kiểu xáo bài nên ít lặp). `src/game/config.ts`: số liệu.
 - `src/game/sfx.ts`: hiệu ứng âm thanh tự tạo (ting, trống, tích tắc, chuông, bụp quà, vỗ tay, kèn). Bỏ file mp3 cùng tên vào `public/assets/sfx/` là dùng file thay.
 - Trang báo cáo sau buổi live: http://localhost:3006/bao-cao (nút 📊 ở trang điều khiển). File `data/bao-cao/<ngày>.json`.
@@ -82,3 +82,5 @@ Lớp học 2D cho TikTok LIVE. Cô giáo áo dài đố chữ: chữ cái xáo 
 - Bàn dài + ghế băng (2026-11-04, làm ở bản tiếng Anh trước rồi chuyển sang): 4 dãy 7, 7, 8, 8 bạn = 30 ghế (`GAME.rowSeats`), các bạn nhỏ lại (KID = 0.82), bàn vẽ SVG đè lên bàn lẻ của ảnh nền (`LongDesk` trong GameStage.tsx).
 - Giọng Edge bị chặn (lỗi 429) khi gọi dồn (2026-11-04): server cho Edge đọc từng câu một, câu giống nhau dùng chung, bị chặn thì chờ 2/5/10 giây thử lại; vẫn lỗi thì Google ĐÚNG ngôn ngữ (từ tiếng Anh dùng tl=en), không lưu bản dự phòng. Log "[giọng dự phòng]" để xem sau buổi live.
 - Repo GitHub CÔNG KHAI từ 2026-11-04: https://github.com/workaipvlinh-byte/lop-hoc-chu (MIT cho mã nguồn; ảnh nhân vật/nền thuộc tác giả). README có hướng dẫn cài đặt, sửa tính năng thì cập nhật README theo.
+- Nâng độ khó bộ câu (2026-11-05, spec `docs/superpowers/specs/2026-11-05-cau-hoi-kho-design.md`): bộ cũ quá dễ nên giờ câu chữ mỗi tiết là 2 dễ / 2 vừa / 6 khó (`roundPlan` trong config.ts, slot toán ghi math2…math5). Đáp án nâng lên tối đa 16 chữ cái. Mục tiêu câu khó là "dân chuyên, chỉ 5–10% trả lời được" — chấp nhận nhiều câu hết giờ không ai đúng. Dời 293 câu dễ sang `cau-hoi/easy-parked/`, giữ 160 câu dễ làm câu mở màn; hạ nhãn 133 câu "khó" cũ thực ra dễ đoán xuống vừa.
+- Bộ câu khó mới (2026-11-05): 31-do-hiem (đố logic/đố chữ), 32-khoa-hoc-kho, 33-dia-ly-kho, 34-lich-su-kho, 35-thanh-ngu-kho, 36-van-hoc-kho; bổ sung câu khó tại chỗ vào hai file slot 23-do-meo và 24-lich-su-su. Luật lịch sử vẫn chỉ VN tới 1945, không nhân vật tranh cãi, chi tiết nguồn chép khác nhau không đưa vào gợi ý.

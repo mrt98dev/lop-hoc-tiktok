@@ -9,7 +9,8 @@ import { makeMath } from './math';
 import { LINES, PICK_TOPICS, POLLS } from './loi-thoai';
 
 const dir = path.join(import.meta.dirname, 'cau-hoi');
-const BANK = parseBank(Object.fromEntries(fs.readdirSync(dir).map((f) => [f, fs.readFileSync(path.join(dir, f), 'utf8')])));
+const files = fs.readdirSync(dir).filter((f) => f.endsWith('.txt'));
+const BANK = parseBank(Object.fromEntries(files.map((f) => [f, fs.readFileSync(path.join(dir, f), 'utf8')])));
 const mk = (answer: string, d: Question['difficulty'] = 'easy', id = answer): Question => ({ id, answer, clue: 'gợi ý', kind: 'Đây là thử.', category: 'x', difficulty: d });
 const who = (i: number) => ({ username: `u${i}`, nickname: `Bạn ${i}`, spoken: `Bạn ${i}`, avatar: '' });
 const chat = (c: Classroom, i: number, comment: string, createTime: number, now: number) => c.chat({ ...who(i), comment, createTime }, now);

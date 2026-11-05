@@ -1,0 +1,10 @@
+# Câu dễ đã dời khỏi 06-nghe-nghiep.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 06-nghe-nghiep.txt
+CÔNG AN | Giữ gìn trật tự, bắt kẻ gian. | 1
+BỘ ĐỘI | Mặc quân phục xanh, bảo vệ Tổ quốc. | 1
+CA SĨ | Người đi hát chuyên nghiệp. | 1
+DIỄN VIÊN | Người đóng phim. | 1
+BÁN HÀNG | Người đứng quầy mời khách mua đồ. | 1
+CÔNG NHÂN | Người làm việc trong nhà máy. | 1
+MC | Người dẫn chương trình. | 1 | NGƯỜI DẪN CHƯƠNG TRÌNH
+DJ | Người chơi nhạc ở quán bar. | 1

@@ -1,0 +1,99 @@
+# Thành ngữ khó
+# Thành ngữ, tục ngữ và quán ngữ Hán Việt — câu khó cho dân chuyên (chủ kênh chốt 2026-11-05).
+# Mỗi dòng: ĐÁP ÁN | gợi ý | độ khó | cách viết khác (cách nhau dấu phẩy)
+> Đây là một câu thành ngữ hoặc tục ngữ.
+UỐNG NƯỚC NHỚ NGUỒN | Câu nói về việc ăn quả phải nhớ ơn người trồng cây. | 3
+LÁ LÀNH ĐÙM LÁ RÁCH | Người khá giả che chở, giúp đỡ người khó khăn hơn. | 3
+CHỊ NGÃ EM NÂNG | Anh em trong nhà dìu nhau khi một người vấp ngã. | 3
+TÔN SƯ TRỌNG ĐẠO | Câu nói về lòng kính trọng người dạy học. | 3
+NHẤT TỰ VI SƯ | Học được một chữ của người khác cũng đủ nhận người đó làm thầy. | 3
+BÁN TỰ VI SƯ | Chỉ học nửa chữ cũng phải kính người dạy mình. | 3
+DỤC TỐC BẤT ĐẠT | Muốn nhanh cho xong lại chẳng nên việc. | 3
+TAM CỐ THẢO LƯ | Ba lần đến lều tranh mời người hiền ra giúp nước. | 3
+KHẨU PHẬT TÂM XÀ | Ngoài miệng hiền lành mà trong lòng hiểm độc. | 3
+ĐỒNG CAM CỘNG KHỔ | Cùng nhau chịu vui buồn, sướng khổ. | 3
+KÍNH LÃO ĐẮC THỌ | Kính trọng người già thì chính mình được sống lâu. | 3
+KỲ PHÙNG ĐỊCH THỦ | Gặp đúng người ngang tài ngang sức. | 3
+THIÊN THỜI ĐỊA LỢI | Hai điều kiện thuận lợi về thời tiết và đất đai, còn thiếu lòng người. | 3
+TAM SAO THẤT BẢN | Qua nhiều lần chép lại thì sai lệch hết. | 3
+ĐẦU VOI ĐUÔI CHUỘT | Mở đầu hoành tráng mà kết thúc nhỏ bé, hụt hẫng. | 3
+ĐẦU XUÔI ĐUÔI LỌT | Công việc trôi chảy, trên dưới đều thuận. | 3
+MỘT NẮNG HAI SƯƠNG | Chịu đựng vất vả, dãi dầu mưa nắng. | 3
+ĐƯỢC VOI ĐÒI TIÊN | Đã được cái lớn rồi còn đòi thêm cái quý hơn. | 3
+NƯỚC CHẢY ĐÁ MÒN | Kiên trì lâu bền thì việc khó cũng thành. | 3
+CÓ CHÍ THÌ NÊN | Có lòng quyết tâm thì ắt làm được việc. | 3
+LÁ RỤNG VỀ CỘI | Đi xa rồi cũng muốn quay về quê hương. | 3
+AN CƯ LẠC NGHIỆP | Sống yên ổn và làm ăn vui vẻ ở một nơi. | 3
+THUẬN BUỒM XUÔI GIÓ | Mọi việc diễn ra trôi chảy, không gặp trở ngại. | 3
+RUỘT ĐỂ NGOÀI DA | Tính tình ngay thẳng, không giấu giếm điều gì. | 3
+TAI VÁCH MÁCH RỪNG | Chuyện kín đến đâu cũng có người nghe được. | 3
+TRÊN DƯỚI MỘT LÒNG | Cả tập thể đều đồng tình, không ai khác ý. | 3
+MỘT LÒNG MỘT DẠ | Chung thủy, không thay đổi ý định. | 3
+CHUNG LƯNG ĐẤU CẬT | Kề vai sát cánh cùng nhau chống đỡ khó khăn. | 3
+ĐỒNG TÂM HIỆP LỰC | Cùng chung ý chí và góp sức làm một việc. | 3
+GẦN MỰC THÌ ĐEN | Gần người xấu thì dễ nhiễm thói xấu. | 3
+GẦN ĐÈN THÌ SÁNG | Gần người tốt thì học được điều hay. | 3
+MƯỢN GIÓ BẺ MĂNG | Nhờ thế lực bên ngoài để làm việc lớn. | 3
+CẦU ĐƯỢC ƯỚC THẤY | Mong gì thì được đúng như vậy. | 3
+TẤC ĐẤT TẤC VÀNG | Nói về giá trị quý giá của từng thước đất quê hương. | 3
+MÁU CHẢY RUỘT MỀM | Thấy người thân gặp nạn thì xót xa, mủi lòng. | 3
+CÔNG CHA NGHĨA MẸ | Câu nói về ơn sinh thành dưỡng dục. | 3
+BẦU ƠI THƯƠNG LẤY BÍ | Khuyên người ta thương những kẻ cùng cảnh ngộ với mình. | 3
+TÍCH TIỂU THÀNH ĐẠI | Gom góp cái nhỏ lâu ngày thành cái lớn. | 3
+TÍCH CỐC PHÒNG CƠ | Lo xa, chắt chiu để phòng lúc khó khăn. | 3
+GÓP GIÓ THÀNH BÃO | Nhiều cái nhỏ góp lại thành sức mạnh lớn. | 3
+BA CÂY CHỤM LẠI | Nhiều người góp sức thì việc lớn cũng xong. | 3
+NƯỚC LỚN CÁ LỚN | Hoàn cảnh lớn thì cơ hội và con người cũng lớn theo. | 3
+BẮT CÁ HAI TAY | Tham lam, muốn hưởng cả hai phần cùng lúc. | 3
+MỘT MẤT MỘT CÒN | Tình thế chỉ còn hai khả năng, đánh đổi sinh tử. | 3
+MỘT SỐNG HAI CHẾT | Liều lĩnh đánh cược cả tính mạng. | 3
+GIẬN CÁ CHÉM THỚT | Giận người này nhưng lại trút lên người khác. | 3
+VẠCH LÁ TÌM SÂU | Lục lọi, soi xét để kiếm chuyện bắt bẻ. | 3
+BỚI LÔNG TÌM VẾT | Cố moi móc khuyết điểm nhỏ nhặt của người khác. | 3
+ĐÁNH TRỐNG LẢNG | Nói vòng vo, không đi thẳng vào vấn đề. | 3
+CAM CHỊU ĐẮNG CAY | Đành lòng chịu đựng gian khổ, tủi cực. | 3
+TẮT LỬA NHƯỜNG CƠM | Dẹp bỏ giận dữ, nhường nhịn nhau cho êm nhà. | 3
+HỌC ĐI ĐÔI VỚI HÀNH | Học phải gắn liền với thực hành. | 3
+THỜI GIAN LÀ VÀNG | Câu nói về giá trị quý báu của từng phút giây. | 3
+DĨ HÒA VI QUÝ | Lấy sự hòa thuận làm điều đáng quý nhất. | 3
+TỨ HẢI GIAI HUYNH | Bốn biển đều là anh em, ở đâu cũng có bạn. | 3
+CÁT TƯỜNG NHƯ Ý | Lời chúc mọi điều tốt lành đúng như mong. | 3
+VINH HOA PHÚ QUÝ | Giàu sang và rạng rỡ, sung sướng cả đời. | 3
+NO CƠM ẤM ÁO | Đủ ăn đủ mặc, không phải lo thiếu thốn. | 3
+CHIA NGỌT SẺ BÙI | Chia sẻ với nhau cả miếng ngon vật quý. | 3
+NHƯỜNG CƠM SẺ ÁO | Nhường cái quý của mình cho người khó hơn. | 3
+THÂN CÔ THẾ CÔ | Chỉ có một mình, không ai nương tựa. | 3
+ĂN CHÁO ĐÁ BÁT | Chịu ơn nhỏ thì phải nhớ đền đáp. | 3
+NẰM GAI NẾM MẬT | Chịu đựng cực khổ để đạt mục đích lớn. | 3
+CHÓ CẮN ÁO RÁCH | Người nghèo khó lại càng bị chèn ép. | 3
+CÁ CHẬU CHIM LỒNG | Cảnh sống tù túng, mất tự do. | 3
+THẢ HỔ VỀ RỪNG | Tha cho kẻ nguy hiểm rồi chuốc họa về sau. | 3
+DẪN VOI VÀO NHÀ | Rước kẻ mang họa vào tận cửa. | 3
+ĐUỔI HÌNH BẮT BÓNG | Theo đuổi thứ hư ảo, không có thật. | 3
+ĐÀN GẢY TAI TRÂU | Nói điều hay cho người không hiểu, không nghe. | 3
+NƯỚC ĐẾN CHÂN | Hoàn cảnh đã đến lúc gay cấn, cùng cực. | 3
+THỦY CHUNG NHƯ NHẤT | Trước sau vẫn một lòng, không thay đổi. | 3
+TẬN TÂM TẬN LỰC | Dốc hết lòng và sức mình cho công việc. | 3
+CÓ TẬT GIẬT MÌNH | Người có lỗi thì hay nghi ngờ, lo sợ vô cớ. | 3
+TAY SAI LÁI CHÁY | Người chỉ huy làm sai thì người dưới chịu khổ. | 3
+GẦN NHÀ GẦN NGÕ | Hàng xóm sát vách, đi lại thăm nom dễ dàng. | 3
+TỐI LỬA TẮT ĐÈN | Cảnh hàng xóm tối đến sang chơi, thăm hỏi nhau. | 3
+CAO CHẠY XA BAY | Sợ hãi đến mức tìm mọi cách trốn tránh. | 3
+NHƯ CÁ GẶP NƯỚC | Gặp đúng hoàn cảnh thì phấn khởi, thỏa chí. | 3
+NHƯ CÁ MẮC CẠN | Lâm vào cảnh bí bách, không lối thoát. | 3
+NHƯ VỊT NGHE SẤM | Nghe mà chẳng hiểu gì, không để tâm. | 3
+KHAI THIÊN LẬP ĐỊA | Làm nên cơ nghiệp lớn lao từ đầu. | 3
+BẤT TRI BẤT GIÁC | Không hề hay biết chuyện gì đang xảy ra. | 3
+VÔ BIÊN VÔ TẬN | Rộng lớn, dài dằng dặc không có giới hạn. | 3
+MẬT NGỌT CHẾT RUỒI | Thứ ngọt ngào dễ dụ người ta vào bẫy. | 3
+CỦA ÍT LÒNG NHIỀU | Ít của cải nhưng rộng rãi, hào phóng. | 3
+CON DẠI CÁI MANG | Cha mẹ khờ dại thì con cái phải chịu. | 3
+CHIM SA CÁ NHẢY | Cảnh vật yên bình, trù phú, tươi đẹp. | 3
+Ở HIỀN GẶP LÀNH | Sống tốt thì gặp điều tốt lành. | 3
+THAM THÌ THÂM | Tham lam quá thì rốt cuộc chuốc hại vào thân. | 3
+KHÔN NHÀ KHÔN CỬA | Lo liệu chu toàn cho gia đình mình. | 3
+DẠI MỘT GIỜ | Người khôn khéo cả đời vẫn có lúc lỡ việc. | 3
+LỬA THỬ VÀNG | Gian nan thử thách mới biết lòng người. | 3
+CHÁO CHỜ MÈO | Hứa hão, đợi mãi cũng không có gì. | 3
+ẾCH NGỒI ĐÁY GIẾNG | Hiểu biết hạn hẹp mà lại tự cao. | 3
+CHÓ NGÁP PHẢI RUỒI | Gặp may mắn ngẫu nhiên mà không phải cố gắng. | 3

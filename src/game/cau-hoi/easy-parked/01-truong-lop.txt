@@ -1,0 +1,15 @@
+# Câu dễ đã dời khỏi 01-truong-lop.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 01-truong-lop.txt
+RA CHƠI | Giờ cả trường chạy ùa ra sân. | 1
+NGHỈ HÈ | Ba tháng không phải đi học. | 1
+BÀI TẬP | Cô giao về nhà làm. | 1
+ĐIỂM MƯỜI | Điểm cao nhất trong bài kiểm tra. | 1 | ĐIỂM 10
+HỘP BÚT | Đồ đựng bút, thước, tẩy. | 1
+BÚT BI | Cây bút bấm tạch tạch, đầu có viên bi nhỏ. | 1
+TAN HỌC | Lúc trống đánh, cả lớp về nhà. | 1
+BÀI THI | Làm xong phải nộp lên cho giám thị. | 1
+CÔ GIÁO | Người mặc áo dài đứng lớp đây nè. | 1
+HỌC TRÒ | Cách gọi khác của học sinh. | 1
+BẠN THÂN | Người bạn ngồi cạnh chia nhau từng cái kẹo. | 1
+BÀN ĐẦU | Chỗ ngồi gần bảng nhất. | 1
+LAU BẢNG | Việc làm bằng khăn ướt sau mỗi tiết học. | 1

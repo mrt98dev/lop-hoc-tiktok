@@ -1,0 +1,8 @@
+# Câu dễ đã dời khỏi 04-mon-an.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 04-mon-an.txt
+CHÁO | Gạo nấu nhừ, ăn khi ốm. | 1
+CƠM | Món ăn bữa nào cũng có. | 1
+NƯỚC MẮM | Nước chấm làm từ cá, Phú Quốc nổi tiếng. | 1
+LẨU | Nồi nước sôi giữa bàn, nhúng rau thịt. | 1
+MÌ TÔM | Ăn cứu đói lúc nửa đêm, gói vài nghìn. | 1 | MÌ GÓI
+CHÈ | Món ngọt đủ loại: đậu đỏ, bưởi, khúc bạch. | 1

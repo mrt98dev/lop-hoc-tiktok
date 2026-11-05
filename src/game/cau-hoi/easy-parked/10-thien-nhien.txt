@@ -1,0 +1,22 @@
+# Câu dễ đã dời khỏi 10-thien-nhien.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 10-thien-nhien.txt
+ĐỒI | Thấp hơn núi, người ta trồng chè trên đó. | 1
+SÔNG | Dòng nước chảy ra biển. | 1
+SUỐI | Nước trong róc rách trên núi. | 1
+THÁC | Nước đổ từ trên cao xuống trắng xóa. | 1 | THÁC NƯỚC
+HỒ | Nước đứng yên, rộng, giữa phố. | 1
+BIỂN | Nước mặn, có sóng vỗ, có cát. | 1
+ĐẢO | Đất nổi giữa biển. | 1 | HÒN ĐẢO
+RỪNG | Nhiều cây, nhiều thú. | 1 | KHU RỪNG
+ĐẤT | Ta đứng trên nó, cây mọc từ nó. | 1
+ĐÁ | Cứng, có loại cuội, có loại granit. | 1 | HÒN ĐÁ
+CÁT | Hạt nhỏ li ti trên bãi biển. | 1
+BÙN | Đất nhão sau mưa. | 1
+LỬA | Nóng, đỏ, cháy. | 1
+KHÓI | Bay lên từ đám cháy. | 1
+NƯỚC | Không có thì không sống được. | 1
+BẦU TRỜI | Màu xanh trên đầu ta. | 1
+MÙA XUÂN | Mùa có Tết, hoa nở. | 1
+MÙA HÈ | Mùa nóng, nghỉ học. | 1 | MÙA HẠ
+MÙA THU | Mùa lá vàng rơi, có Trung thu. | 1
+MÙA ĐÔNG | Mùa lạnh, mặc áo khoác. | 1

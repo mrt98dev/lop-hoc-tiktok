@@ -1,0 +1,13 @@
+# Câu dễ đã dời khỏi 19-the-gioi.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 19-the-gioi.txt
+NGA | Đất nước rộng nhất thế giới. | 1
+MỸ | Có tượng Nữ thần Tự do. | 1 | HOA KỲ
+ANH | Có tháp đồng hồ Big Ben. | 1 | NƯỚC ANH
+PHÁP | Có tháp Eiffel. | 1
+ĐỨC | Thủ đô Berlin, ô tô nổi tiếng. | 1
+NƯỚC Ý | Hình chiếc ủng, có pizza. | 1 | Ý
+ÚC | Có chuột túi, Sydney. | 1 | NƯỚC ÚC
+CHÂU Á | Châu lục rộng nhất, Việt Nam thuộc đây. | 1
+CHÂU ÂU | Có Pháp, Đức, Ý. | 1
+CHÂU PHI | Có sa mạc Sahara, sư tử. | 1
+CHÂU MỸ | Có Mỹ, Brazil. | 1

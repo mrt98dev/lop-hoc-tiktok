@@ -1,0 +1,27 @@
+# Câu dễ đã dời khỏi 11-co-the.txt (2026-11-05: một tiết chỉ còn 2 câu dễ)
+# Muốn dùng lại: kéo các dòng dưới lên 11-co-the.txt
+CHÂN | Dùng để đi. | 1 | BÀN CHÂN
+BỤNG | Ăn no thì căng tròn. | 1 | CÁI BỤNG
+RỐN | Cái lỗ nhỏ giữa bụng. | 1
+LƯNG | Phía sau thân, hay bị đau khi ngồi lâu. | 1
+TIM | Đập thình thịch trong lồng ngực. | 1 | TRÁI TIM
+PHỔI | Hít thở không khí. | 1
+NÃO | Bộ phận suy nghĩ trong đầu. | 1 | BỘ NÃO
+XƯƠNG | Khung cứng của cơ thể, uống sữa cho chắc. | 1
+MÁU | Màu đỏ, chảy trong mạch. | 1
+DA | Lớp ngoài cùng của cơ thể. | 1 | LÀN DA
+NƯỚC MẮT | Chảy ra khi khóc. | 1
+NỤ CƯỜI | Thứ đẹp nhất trên gương mặt. | 1
+MỤN | Nổi trên mặt tuổi dậy thì. | 1 | MỤN TRỨNG CÁ
+SỐT | Người nóng, đo nhiệt kế ba mươi chín độ. | 1 | BỊ SỐT
+HO | Khụ khụ. | 1
+ĐAU BỤNG | Ăn bậy là bị cái này. | 1
+ĐAU RĂNG | Ăn kẹo nhiều quá thì bị. | 1
+THUỐC | Uống khi ốm, có viên, có siro. | 1
+BỆNH VIỆN | Nơi khám chữa bệnh, có xe cứu thương. | 1
+ĂN SÁNG | Bữa đầu tiên trong ngày. | 1
+NGỦ TRƯA | Chợp mắt sau bữa trưa. | 1
+ĐÁNH RĂNG | Việc làm mỗi sáng và trước khi ngủ. | 1
+RỬA TAY | Làm trước khi ăn để sạch vi khuẩn. | 1
+TẮM | Làm mỗi tối cho sạch sẽ. | 1
+NGÁP | Há miệng to khi buồn ngủ. | 1

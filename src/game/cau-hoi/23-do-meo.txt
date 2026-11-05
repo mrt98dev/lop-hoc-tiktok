@@ -103,3 +103,57 @@ BÓNG ĐÁ | Môn gì hai mươi hai người tranh nhau một quả bóng? | 2 
 NHÀ VỆ SINH | Phòng gì ai cũng phải vào mà chẳng ai muốn ở lâu? | 2 | PHÒNG VỆ SINH, TOILET, WC
 CHỮ O | Chữ cái gì tròn như quả trứng? | 2 | O
 TRÁI ĐẤT | Quả gì to nhất mà không ai ăn được? | 2 | QUẢ ĐẤT
+NIỀM VUI | Cái gì càng chia cho người khác càng nhiều thêm? | 3
+TƯƠNG LAI | Cái gì lúc nào cũng ở phía trước mà chưa ai nhìn thấy? | 3
+THỜI GIAN | Cái gì bay mà không có cánh, chạy mà không có chân? | 3
+CÁI ÁO | Cái gì có cổ mà không có đầu, có tay mà không có người? | 3
+SỰ IM LẶNG | Cái gì đập vỡ được mà không cần chạm tay? | 3
+TEM THƯ | Cái gì đi khắp thế giới mà vẫn nằm trong một góc? | 3
+CON NGƯỜI | Buổi sáng bốn chân, buổi trưa hai chân, buổi tối ba chân là gì? | 3
+LỜI NÓI | Cái gì đã thốt ra rồi thì không thu lại được? | 3
+ĐƯỜNG CHÂN TRỜI | Cái gì càng đi về phía nó càng không tới? | 3
+ÁNH SÁNG | Cái gì xuyên qua cửa kính mà không làm vỡ kính? | 3
+HƠI THỞ | Cái gì thấy rõ vào ngày lạnh, ngày thường chẳng ai để ý? | 3
+NƯỚC MẮT | Cái gì mặn mà không phải muối, chỉ chảy khi lòng đau? | 3
+MẶT NƯỚC | Cái gì phản chiếu mọi thứ mà không phải gương? | 3
+NGỌN LỬA | Cái gì càng được thổi thì càng lớn? | 3
+KHÓI | Cái gì bay lên không cần cánh, tan dần vào không khí? | 3
+CÁI CỬA | Cái gì mở ra đóng vào cả ngày mà không biết mệt? | 3
+BÚT CHÌ | Cái gì càng viết càng ngắn lại? | 3
+CỤC PIN | Cái gì càng dùng càng yếu, sạc lại thì khỏe? | 3
+BỘ XƯƠNG | Cái gì nâng cả cơ thể mà chẳng ai nhìn thấy? | 3
+VÂN TAY | Cái gì mỗi người một kiểu, không ai giống ai? | 3 | DẤU VÂN TAY
+THANG MÁY | Cái gì lên xuống cả ngày mà không bước chân? | 3
+LA BÀN | Cái gì luôn chỉ về một hướng mà không cần ai nhắc? | 3
+KÍNH HIỂN VI | Cái gì giúp nhìn thấy thứ mắt thường không thấy? | 3
+KÍNH VIỄN VỌNG | Cái gì giúp nhìn thấy vật ở rất xa? | 3
+CÁI CHUÔNG | Cái gì có miệng mà không nói, có lưỡi mà không ăn? | 3
+CÁI TRỐNG | Cái gì bị đánh càng nhiều càng kêu to? | 3
+CÁI SÁO | Cái gì có nhiều lỗ mà thổi vào thì kêu? | 3
+CON THUYỀN | Cái gì có buồm mà không có cánh, có bánh lái mà không có tay? | 3
+CÚC ÁO | Cái gì bé xíu mà giữ cả tấm áo lại với nhau? | 3
+KHÓA KÉO | Cái gì có răng mà cắn chặt hai mép áo? | 3
+BÁNH XE | Cái gì tròn mà càng mòn càng tốt? | 3
+SỢI XÍCH | Cái gì có nhiều mắt mà chẳng nhìn được gì? | 3
+BÔNG TUYẾT | Cái gì rơi xuống mà không ướt, chạm vào là tan? | 3
+SƯƠNG MÙ | Cái gì sáng sớm giăng kín lối đi, gần trưa thì tan? | 3
+TỔ CHIM | Cái gì do chính con vật xây mà không cần thợ? | 3
+HẠT GẠO | Cái gì trắng, nhỏ, mà nuôi cả một nước? | 3
+HẠT MUỐI | Cái gì bé xíu mà mặn cả nồi canh? | 3
+CÁI ĐINH | Cái gì bị đập mà càng lún sâu? | 3
+CÁI CƯA | Cái gì có răng mà cắt được gỗ? | 3
+KHẨU TRANG | Cái gì che miệng mà vẫn nói được? | 3
+GĂNG TAY | Cái gì có năm ngón mà không phải bàn tay? | 3
+CÁI CHIẾU | Cái gì trải xuống đất để nằm mà không phải giường? | 3
+CÁI CHĂN | Cái gì đắp lên thì ấm, bỏ ra thì lạnh? | 3
+CÁI MÀN | Cái gì che muỗi mà không che nắng? | 3
+CÁI NĨA | Cái gì có răng mà không cắn, có cán mà không đi? | 3 | CÁI DĨA, DĨA
+CÁI THÌA | Cái gì có bụng mà không ăn gì? | 3 | CÁI MUỖNG
+CÁI LY | Cái gì có miệng mà không nói, có đáy mà không có chân? | 3 | CÁI CỐC
+LÒ VI SÓNG | Cái gì làm nóng thức ăn mà không cần lửa? | 3
+MÁY GIẶT | Cái gì giặt áo mà không có tay? | 3
+MÁY HÚT BỤI | Cái gì ăn bụi mà không bao giờ no? | 3
+MÁY ẢNH | Cái gì giữ khoảnh khắc mà không cần trí nhớ? | 3
+BỨC TRANH | Cái gì treo trên tường mà biết kể chuyện? | 3
+BÃO | Cái gì có tên mà ai nghe cũng muốn tránh? | 3
+LŨ | Cái gì dâng lên mà không ai mời? | 3

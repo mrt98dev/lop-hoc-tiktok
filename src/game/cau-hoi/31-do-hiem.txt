@@ -1,0 +1,63 @@
+# Đố hiểm
+# Đố logic, đố chữ, mẹo hiểm — phải nghĩ mới ra (chủ kênh chốt 2026-11-05: câu khó cho dân chuyên).
+# Mỗi dòng: ĐÁP ÁN | câu đố | độ khó | cách trả lời khác cũng tính đúng (cách nhau dấu phẩy)
+> Câu đố hiểm nè, nghĩ kỹ rồi hãy gõ nha, cô lừa đấy.
+MỌI THÁNG | Tháng nào trong năm có ngày hai mươi tám? | 3 | TẤT CẢ CÁC THÁNG
+MƯỜI HAI | Một năm có bao nhiêu tháng có ít nhất hai mươi tám ngày? | 3 | 12
+NĂM PHÚT | Năm con mèo bắt năm con chuột hết một quãng thời gian. Một trăm con mèo bắt một trăm con chuột hết bao lâu? | 3 | 5 PHÚT
+TÁM | Nông dân có mười bảy con cừu, trừ đi chín con thì còn mấy con? | 3 | 8
+KHÔNG | Bốn con chim đậu trên cành, bắn rơi một con. Trên cành còn mấy con? | 3 | 0
+NĂM GÓC | Cái bàn vuông có bốn góc, cắt mất một góc thì còn mấy góc? | 3 | 5 GÓC
+MƯỜI CHÍN | Từ một đến một trăm có bao nhiêu số chứa chữ số chín? | 3 | 19
+NĂM MƯƠI | Từ một đến một trăm có bao nhiêu số chẵn? | 3 | 50
+QUE DIÊM | Phòng tối có đèn dầu, cây nến và bếp củi. Bạn chỉ có một que, châm gì trước tiên? | 3 | DIÊM
+BỐN TRĂM | Một trăm chia cho một phần tư bằng bao nhiêu? | 3 | 400
+HAI MƯƠI | Số nhỏ nhất có hai chữ số chia hết cho cả bốn và năm? | 3 | 20
+CHÍN MƯƠI SÁU | Mười hai nhân tám bằng bao nhiêu? | 3 | 96
+BỐN MƯƠI BẢY | Hoa sen trong ao mỗi ngày nở gấp đôi, ngày thứ bốn mươi tám phủ kín ao. Ngày thứ mấy phủ nửa ao? | 3 | 47
+MƯỜI MỘT GIÂY | Chuông điểm sáu tiếng hết năm giây. Điểm mười hai tiếng hết bao nhiêu giây? | 3 | 11 GIÂY
+TÁM NGÀY | Ốc sên leo cột cao mười mét, ban ngày leo ba mét, ban đêm tụt hai mét. Mấy ngày thì tới đỉnh? | 3 | 8 NGÀY
+BA CON VỊT | Một con đi trước hai con, một con đi sau hai con, một con đi giữa hai con. Hỏi có mấy con? | 3 | BA CON
+ÔNG BỐ CON | Có hai người cha và hai người con mà chỉ có ba người. Đó là những ai? | 3 | ÔNG BỐ CHÁU
+MỘT TRĂM HAI MƯƠI | Một năm có bốn tháng ngắn hơn ba chục mốt ngày. Bốn tháng đó cộng lại bao nhiêu ngày? | 3 | 120
+BA CÂY NẾN | Có mười cây nến đang cháy, thổi tắt ba cây. Hỏi còn mấy cây nến? | 3 | 3 CÂY NẾN
+BẢY MƯƠI | Ba mươi chia cho một phần hai rồi cộng mười bằng bao nhiêu? | 3 | 70
+CHÍN MƯƠI MỐT | Chín cộng chín chia chín cộng chín nhân chín bằng bao nhiêu? | 3 | 91
+BỐN QUẢ TRỨNG | Có sáu quả trứng, làm vỡ hai quả, rán hai quả, ăn hai quả. Còn mấy quả? | 3 | 4 QUẢ
+HAI MƯƠI HAI | Một ngày kim giờ và kim phút gặp nhau bao nhiêu lần? | 3 | 22 LẦN
+CHÍN TRĂM | Có bao nhiêu số có ba chữ số? | 3 | 900
+CHÍN MƯƠI BẢY | Số nguyên tố lớn nhất có hai chữ số? | 3 | 97
+TÁM MƯƠI MỐT | Số chính phương lớn nhất nhỏ hơn một trăm? | 3 | 81
+NĂM MƯƠI LĂM | Tổng các số từ một đến mười bằng bao nhiêu? | 3 | 55
+HAI LẦN | Có chín quả bóng, một quả nặng hơn, cân hai đĩa. Cân ít nhất mấy lần là tìm ra? | 3 | 2 LẦN
+BA MƯƠI | Tháng tư, tháng sáu, tháng chín và tháng mười một có bao nhiêu ngày? | 3 | 30 NGÀY
+HAI MƯƠI TÁM | Tháng hai của năm thường có bao nhiêu ngày? | 3 | 28 NGÀY
+ƯỚT | Ném một viên đá màu đỏ xuống biển xanh, nó thành màu gì? | 3 | ƯỚT RỒI
+HỘP TÁO CAM | Ba hộp dán nhãn "táo", "cam", "táo cam" đều sai. Mở một hộp lấy một quả là biết cả ba. Mở hộp nào? | 3 | HỘP TÁO VÀ CAM
+BỐN MƯƠI LĂM | Mười người bắt tay nhau, ai cũng bắt tay mọi người một lần. Có bao nhiêu cái bắt tay? | 3 | 45
+MỘT GIỜ | Ba người làm xong việc trong ba giờ. Chín người làm xong trong mấy giờ? | 3 | 1 GIỜ
+MỘT NGƯỜI | Trong phòng có ba người, bạn vào đuổi hai người ra. Trong phòng còn mấy người? | 3 | 1
+CON TEM | Cái gì đi khắp thế giới mà vẫn dính một chỗ? | 3 | TEM
+CON CUA | Con gì càng to thì càng nhỏ? | 3 | CUA
+CON DỐC | Con gì đầu dê mình ốc? | 3 | DỐC
+MŨI | Mũ gì không bao giờ đội lên đầu? | 3 | CÁI MŨI
+QUẢ ĐẤM | Quả gì không có hạt mà ai cũng có? | 3 | NẮM ĐẤM
+CHÂN TÓC | Chân gì không bao giờ bước đi? | 3 | SỢI TÓC
+LƯỠI CÀY | Lưỡi gì không biết nếm? | 3 | LƯỠI XẺNG
+CỔ CHAI | Cổ gì không quay được? | 3 | CỔ LỌ
+CỤC ĐÁ | Cái gì càng phơi nắng càng ướt? | 3 | ĐÁ
+RĂNG CƯA | Răng gì không cắn được ai? | 3 | CƯA
+BÀN CHÂN | Bàn gì không bao giờ ngồi? | 3
+TAY ÁO | Tay gì không cầm được gì? | 3 | ỐNG TAY
+MẮT CÁ | Mắt gì không nhìn thấy gì? | 3 | MẮT NA
+MIỆNG NÚI | Miệng gì không ăn được gì? | 3 | MIỆNG HANG
+SỢI CHUN | Cái gì càng kéo càng dài, buông ra thì co lại? | 3 | DÂY THUN
+NÚT DÂY | Cái gì càng thắt càng chặt? | 3 | NÚT THẮT
+NỤ CƯỜI | Cái gì cho đi rồi mà mình vẫn còn? | 3
+LỜI ĐÃ NÓI | Cái gì thốt ra rồi không thu lại được? | 3 | LỜI NÓI
+THỜI GIAN | Cái gì không ai giữ được, không ai mua được, mà ai cũng có? | 3
+KÝ ỨC | Cái gì càng nhiều càng nặng lòng mà chẳng nặng cân? | 3 | KỶ NIỆM
+GIẤC MƠ | Cái gì đến mà không gõ cửa, đi mà không chào? | 3
+NIỀM TIN | Cái gì vỡ rồi thì khó hàn gắn nhất? | 3
+SỨC KHOẺ | Cái gì mất đi rồi mới biết quý? | 3
+HƠI THỞ | Cái gì ai cũng có mà không ai nhìn thấy? | 3
